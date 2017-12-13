@@ -119,7 +119,6 @@ body {
 	margin-right: auto;
 	margin-bottom: 0;
 	max-width: 100%;
-	min-width: 70%;
 	height: auto;
 }
 
@@ -157,6 +156,44 @@ h5 {
 
 
 /* Le style des zones de texte */
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.p80 {
+	width: 80%;
+	margin: 1rem auto;
+}
+
+.p1-3 {
+	width: calc( 100% / 3 );
+	padding: 0 5px 0 5px;
+}
+
+.p2-3 {
+	width: calc( 100% / 3 * 2 );
+	padding: 0 5px 0 5px;
+}
+
+@media (max-width: 38em) {
+	.p80,
+	.p1-3,
+	.p2-3 {
+		width: calc(100% - 20px);
+		margin: 1rem auto;
+	}
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
 
 
 /* La carte dans la page "Contact" */
