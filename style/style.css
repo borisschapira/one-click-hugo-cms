@@ -86,6 +86,23 @@ body {
 	color: black;
 }
 
+.content picture,
+.content img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  max-width: 100%;
+  min-width: 70%;
+  height: auto;
+}
+.content figcaption {
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+  max-width: 80%;
+  text-align: center;
+}
+
 /* Le style des titres */
 
 .title_wrapper {
