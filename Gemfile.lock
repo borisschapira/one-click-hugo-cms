@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/borisschapira/jekyll-microtypo
-  revision: 78915da7a4a1e403e81de6b4fde186a7ed58fbf2
-  branch: v0.1.0
-  specs:
-    jekyll-microtypo (0.1.0)
-      jekyll (>= 3.0, < 4.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -28,6 +20,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-cloudinary (1.9.1)
       fastimage (>= 2.0, < 3.0)
+      jekyll (>= 3.0, < 4.0)
+    jekyll-microtypo (0.0.9)
       jekyll (>= 3.0, < 4.0)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
@@ -63,7 +57,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-cloudinary
-  jekyll-microtypo!
+  jekyll-microtypo
   jekyll-sitemap
   tzinfo-data
 

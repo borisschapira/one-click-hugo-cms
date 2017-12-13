@@ -21,7 +21,7 @@ contact:
   address2: 24460 Château-L'Évêque
   phone: "05 53 54 30 71"
 baseurl: ""
-url: ""
+url: "https://oasis-24750.netlify.com/"
 permalink: :year/:month/:title/
 locale: fr_FR
 defaults:
