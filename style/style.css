@@ -141,14 +141,14 @@ h1 {
 	font-family: 'Gabriela';
 	font-size: 1.5rem;
 	text-align: center;
-	margin: 15px 0;
 }
 
+h1,
 h2,
 h3,
 h4,
 h5 {
-	margin: 15px 0;
+	margin: 2rem 0 1rem 0;
 }
 
 
@@ -168,8 +168,7 @@ h5 {
 
 /* Le style du tableau des prix et des activités */
 
-table,
-.activites th {
+table {
 	margin: 0px auto;
 	border-collapse: collapse;
 	text-align: center;
@@ -183,16 +182,6 @@ td,
 th {
 	padding: 5px 10px;
 	border: 1px solid #555;
-}
-
-table.activites {
-	text-align: left;
-}
-
-.activites a,
-.activites a:visited {
-	text-decoration: underline;
-	color: grey;
 }
 
 
@@ -302,6 +291,20 @@ fieldset {
 	background: #FFF;
 	margin: 0 0 5px;
 	padding: 10px;
+}
+
+#contact input[type="date"] {
+	width: calc( 50% - 2px );
+	border: 1px solid #ccc;
+	background: #FFF;
+	margin: 0 0 5px;
+	padding: 10px;
+}
+
+@media (max-width: 38em) {
+	#contact input[type="date"] {
+		width: 100%;
+	}
 }
 
 #contact input[type="text"]:hover,
