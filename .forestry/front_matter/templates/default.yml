@@ -1,0 +1,18 @@
+---
+hide_body: false
+fields:
+- name: lang
+  label: Lang
+  type: text
+  hidden: false
+  default: fr
+- name: locale
+  label: Locale
+  type: text
+  hidden: false
+  default: fr_FR
+- name: base-url
+  label: Base url
+  type: text
+  hidden: false
+  default: "/"

@@ -1,0 +1,45 @@
+---
+pages:
+- en/tarifs.html
+- en/nearby.html
+- en/index.html
+- en/booking.html
+- en/about.html
+- en/404.html
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: i18n-key
+  label: I18n key
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: locale
+  label: Locale
+  type: text
+  hidden: false
+  default: en_US
+- name: lang
+  label: Lang
+  type: text
+  hidden: false
+  default: fr
+- name: base-url
+  label: Base url
+  type: text
+  hidden: false
+  default: "/en/"
