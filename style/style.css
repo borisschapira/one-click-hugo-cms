@@ -50,6 +50,13 @@ header a,
 	cursor: pointer;
 }
 
+.nav .active {
+	font-weight: bold;
+}
+.nav .active::before {
+	content:"✝";
+}
+
 .menu a {
 	font-family: 'Gabriela';
 	font-size: 0.9em;
@@ -75,7 +82,8 @@ header a,
 /* Le style du contenu */
 
 .content {
-	width: calc( 100% - 40px);
+	width: calc( 100% - 10vw);
+	max-width: 60rem;
 	margin: 0px auto;
 	clear: both;
 }
@@ -113,11 +121,8 @@ body {
 }
 
 h1 {
-	display: inline-block;
-	vertical-align: top;
 	font-family: 'Gabriela';
 	font-size: 1.5em;
-	font-weight: bold;
 	text-align: center;
 	margin: 0px;
 	padding-left: 15px;

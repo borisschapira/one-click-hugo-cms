@@ -1,23 +1,22 @@
 <div class="header">
     <header id="top">
-        <a href="/">{{ site.title }}</a>
+        <a href="{{ page.base-url }}">{{ site.title }}</a>
     </header>
     <div class="menu">
         {% if page.translation %}{% capture read_in %}{% t Lire en %} {%
         if lang == "en" %}{% t anglais %}{% else %}{% t français %}{% endif %}{% endcapture %}{% assign tran_lang = page.translation.locale | slice: 0,2 %}
         {% endif %}
         <nav class="nav">
-            <ul>
-                {% assign menu = site.data.menu[lang] %}{% for item in menu %}
-                <li>
-                    <a href="{{ item.url }}">{{ item.name }}</a>
+            <ul>{% assign menu = site.data.menu[lang] %}{% for item in menu %}{% assign li_url = item.url | prepend: page.base-url %}
+                <li {% if li_url == page.url %}class="active"{% endif %}>
+                    <a href="{{ li_url }}">{{ item.name }}</a>
                 </li>                    
                 {% endfor %}
             </ul>
-        </nav>
+        </nav>{% if page.translation %}
         <div class="langue">
             <a href="{{ page.translation.url }}" title="{{ read_in }}">
                 <img src="/images/{{ tran_lang }}.png" />{{ tran_lang | upcase }}</a>
-        </div>
+        </div>{% endif %}
     </div>
 </div>

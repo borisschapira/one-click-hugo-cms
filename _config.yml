@@ -20,7 +20,7 @@ contact:
   address1: Rue Soeur Jean Gabriel
   address2: 24460 Château-L'Évêque
   phone: "05 53 54 30 71"
-baseurl: ""
+baseurl: "/"
 url: "https://oasis-24750.netlify.com/"
 permalink: :year/:month/:title/
 locale: fr_FR
@@ -32,7 +32,7 @@ defaults:
       locale: fr_FR
       base-url: "/"
   - scope:
-      path: "/en"
+      path: "en"
     values:
       locale: "en_US"
       base-url: "/en/"
