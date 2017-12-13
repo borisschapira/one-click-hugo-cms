@@ -9,7 +9,14 @@ title: Welcome
 i18n-key: home
 ---
 
-{% cloudinary /images/photo/canal.jpg alt="A canal crossing the courtyard." caption="The Oasis is never short of water."%}
+{% capture img_alt %}A canal crossing the courtyard.{% endcapture %}
+{% capture img_caption %}L'Oasis is never short of water.{% endcapture %}
+{% include image.html.liquid
+    path="/images/photo/canal.jpg"
+    alt=img_alt
+    caption=img_caption 
+%}
+
 
 <h1>{{ page.title }}</h1>
 
