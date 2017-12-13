@@ -62,6 +62,6 @@ i18n-key: booking
 <h2>Faire une demande de réservation</h2>
 
 {% capture reassurance %}
-Ne vous inquiétez pas : à la soumission, vous allez être redirigé·e vers une page où vous devrez cliquer dans une case pour prouver que vous n'êtes pas un robot. Nous vous répondrons sous 15 jours. Si vous avez besoin d'aide, appelez-nous au <a href="tel:{{ site.contact.phone | replace: " ", """" }}">{{ site.contact.phone }}</a>
+Nous vous répondrons au plus vite. Si toute fois vous aviez besoin de nous joindre, vous pouvez nous appeler au <a href="tel:{{ site.contact.phone | replace: " ", """" }}">{{ site.contact.phone }}</a>
 {% endcapture %}
 {% include form-booking.html.liquid reassurance=reassurance %}
