@@ -1,22 +1,22 @@
 <div class="container">
-	<form id="contact" action="https://formspree.io/borisschapira@gmail.com" method="POST">
+	<form id="contact" name="booking" netlify>
 		<fieldset>
-            <label for="name" class="sr-only">{% t Votre nom %}</label>
-			<input id="name" name="name" placeholder="{% t Votre nom %}" type="text" required>
+            <label for="nom" class="sr-only">{% t Votre nom %}</label>
+			<input id="nom" name="nom" placeholder="{% t Votre nom %}" type="text" required>
 		</fieldset>
 		<fieldset>
             <label for="email" class="sr-only">{% t Votre adresse email%}</label>
 			<input id="email" name="email" placeholder="{% t Votre adresse email %} ({% t facultatif %})" type="email">
 		</fieldset>
 		<fieldset>
-            <label for="phone" class="sr-only">{% t Votre numéro de téléphone %}</label>
-			<input id="phone" name="phone" placeholder="{% t Votre numéro de téléphone %}" type="tel" required>
+            <label for="telephone" class="sr-only">{% t Votre numéro de téléphone %}</label>
+			<input id="telephone" name="telephone" placeholder="{% t Votre numéro de téléphone %}" type="tel" required>
 		</fieldset>
 		<fieldset>
-            <label for="from" class="sr-only">{% t Date d'arrivée %}</label>
-			<input type="date" name="from" id="from" placeholder="{% t Date d'arrivée %}" required></input>
-			<label for="to" class="sr-only">{% t Date de départ %}</label>
-			<input type="date" id="to" name="to" placeholder="{% t Date de départ %}" required></input>
+            <label for="a-partir-du" class="sr-only">{% t Date d'arrivée %}</label>
+			<input type="date" name="a-partir-du" id="a-partir-du" placeholder="{% t Date d'arrivée %}" required></input>
+			<label for="jusqu-au" class="sr-only">{% t Date de départ %}</label>
+			<input type="date" id="jusqu-au" name="jusqu-au" placeholder="{% t Date de départ %}" required></input>
 		</fieldset>
 		<fieldset>
             <label for="email" class="sr-only">{% t Votre message %}</label>
