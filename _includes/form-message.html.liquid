@@ -1,0 +1,24 @@
+<div class="container">
+	<form id="contact" action="https://formspree.io/borisschapira@gmail.com" method="POST">
+		<fieldset>
+            <label for="name" class="sr-only">{% t Votre nom %}</label>
+			<input id="name" placeholder="{% t Votre nom %}" type="text" required>
+		</fieldset>
+		<fieldset>
+            <label for="email" class="sr-only">{% t Votre adresse email%}</label>
+			<input id="email" placeholder="{% t Votre adresse email %} ({% t facultatif %})" type="email" required>
+		</fieldset>
+		<fieldset>
+            <label for="email" class="sr-only">{% t Votre numéro de téléphone %}</label>
+			<input id="phone" placeholder="{% t Votre numéro de téléphone %}" type="tel" required>
+		</fieldset>
+		<fieldset>
+            <label for="email" class="sr-only">{% t Votre message %}</label>
+			<textarea id="message" placeholder="{% t Votre message %}" required></textarea>
+		</fieldset>
+		<fieldset>
+			<button name="submit" type="submit" id="contact-submit">{% t Envoyer %}</button>
+		</fieldset>
+	</form>
+	</form>
+</div>

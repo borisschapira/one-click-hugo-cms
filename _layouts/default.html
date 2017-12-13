@@ -5,12 +5,10 @@ layout: microtypo
 <html lang="{{ lang }}">
 {% include head.html.liquid %}
 <body class="page_accueil">
-    <div id="page">
-        {% include header.html.liquid %}
-        <div class="content">
-            {{ content }}
-        </div>
-        {% include footer.html.liquid %}
+    {% include header.html.liquid %}
+    <div class="content">
+        {{ content }}
     </div>
+    {% include footer.html.liquid %}
 </body>
 </html>
