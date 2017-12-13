@@ -178,6 +178,14 @@ h5 {
 	padding: 0 5px 0 5px;
 }
 
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
 @media (max-width: 38em) {
 	.p80,
 	.p1-3,
@@ -186,14 +194,6 @@ h5 {
 		margin: 1rem auto;
 		float: none;
 	}
-}
-
-.right {
-	float: right;
-}
-
-.left {
-	float: left;
 }
 
 
