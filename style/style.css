@@ -17,6 +17,10 @@ header {
 	margin-bottom: 20px;
 }
 
+header span {
+    letter-spacing: 5px;
+}
+
 header a,
 .langue a {
 	color: black;
