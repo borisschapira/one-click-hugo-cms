@@ -1,0 +1,17 @@
+<div id="footer">
+    <div class="blank-space">
+        <!-- -->
+    </div>
+    <div class="footer">
+        <p>
+            <img src="/images/arabesque.png" />
+            <a class="up" href="#top" title="Retour haut de page">
+                <img src="/images/up.png" />
+            </a>
+            <br/>{{ site.contact.name }}
+            <br/>{{ site.contact.address1 }}
+            <br/>{{ site.contact.address2 }}
+            <br/>{% t Tél. : %} <a href="tel:{{ site.contact.phone | replace: " ", """" }}">{{ site.contact.phone }}</a>
+        </p>
+    </div>
+</div>

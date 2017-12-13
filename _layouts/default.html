@@ -1,0 +1,16 @@
+---
+layout: microtypo 
+--- 
+{% assign lang = page.locale | slice: 0,2 %}<!DOCTYPE html>
+<html lang="{{ lang }}">
+{% include head.html.liquid %}
+<body class="page_accueil">
+    <div id="page">
+        {% include header.html.liquid %}
+        <div class="content">
+            {{ content }}
+        </div>
+        {% include footer.html.liquid %}
+    </div>
+</body>
+</html>

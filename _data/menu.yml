@@ -1,0 +1,18 @@
+fr:
+  - url: "/"
+    name: "Accueil"
+  - url: "/infos"
+    name: "Infos pratiques"
+  - url: "/tarifs"
+    name: "Tarifs et réservation"
+  - url: "/a-proximite"
+    name: "À proximité"
+en:
+  - url: "/en"
+    name: "Home"
+  - url: "/en/about"
+    name: "About"
+  - url: "/pricing"
+    name: "Pricing"
+  - url: "/nearby"
+    name: "Nearby"
