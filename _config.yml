@@ -39,7 +39,7 @@ defaults:
 
 # Images RWD
 cloudinary:
-  cloud_name: borisschapira
+  cloud_name: oasis-st-vincent
 
 # Build settings
 markdown: kramdown
