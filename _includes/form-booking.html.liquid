@@ -1,5 +1,8 @@
 <div class="container">
-	<form id="contact" name="booking" netlify>
+	<form id="contact" name="booking" netlify-honeypot="jean-jacques-walli" netlify>
+		<p class="hidden" aria-hidden="true">
+    		<label>Don’t fill this out: <input name="jean-jacques-walli"></label>
+  		</p>
 		<fieldset>
             <label for="nom" class="sr-only">{% t Votre nom %}</label>
 			<input id="nom" name="nom" placeholder="{% t Votre nom %}" type="text" required>
