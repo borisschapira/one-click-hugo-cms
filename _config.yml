@@ -69,6 +69,8 @@ cloudinary:
 # Build settings
 markdown: kramdown
 
+include:
+  - "_headers"
 exclude:
   - Gemfile
   - Gemfile.lock
