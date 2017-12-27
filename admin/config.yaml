@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: DaughtersOfCharity/oasis
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "images"
+public_folder: "/images"
+collections:
+  - name: "pages_fr"
+    label: "Pages FR"
+    description: >
+      Pages en français du site
+    files:
+      - name: "index"
+        label: "Accueil"
+        file: "index.html"
+        delete: false
+        fields:
+          - {label: "Contenu", name: "body", widget: markdown}
