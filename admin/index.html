@@ -20,10 +20,10 @@
       label: "RWD Image",
       // Fields the user need to fill out when adding an instance of the component
       fields: [
-        {name: 'path', label: 'Image', widget: 'image'},
-        {name: 'alt', label: 'Alternative text', widget: 'string'},
-        {name: 'caption', label: 'Caption of the image', widget: 'string'},
-        {name: 'type', label: 'Affichage', widget: "select", options: ["default", "onethird-left", "onethird-right"], default: "default"}
+        {name: 'path', label: 'Image', widget: 'image', required: true },
+        {name: 'alt', label: 'Alternative text', widget: 'string', required: true },
+        {name: 'caption', label: 'Caption of the image', widget: 'string', required: true },
+        {name: 'type', label: 'Affichage', widget: "select", options: ["default", "onethird-left", "onethird-right"], default: "default", required: true }
         ],
       // Pattern to identify a block as being an instance of this component
       pattern: /{% capture img_alt %}(.*){% endcapture %}{% capture img_caption %}(.*){% endcapture %}{% include image.html.liquid type="(.*)" path="(.*)" alt=img_alt caption=img_caption %}/,
@@ -80,7 +80,7 @@
       label: "Formulaire de réservation",
       // Fields the user need to fill out when adding an instance of the component
       fields: [
-        {name: 'reassurance', label: 'Message de réassurance', widget: 'text'}
+        {name: 'reassurance', label: 'Message de réassurance', widget: 'text', required: true }
         ],
       // Pattern to identify a block as being an instance of this component
       pattern: /{% capture reassurance %}(.*){% endcapture %}{% include form-booking.html.liquid reassurance=reassurance %}/,
