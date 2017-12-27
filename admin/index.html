@@ -57,6 +57,10 @@
       fields: [],
       // Pattern to identify a block as being an instance of this component
       pattern: /{% include form-message.html.liquid %}/,
+      // Function to extract data elements from the regexp match
+      fromBlock: function(match) {
+        return {};
+      },
       // Function to create a text block from an instance of this component
       toBlock: function(obj) {
         return '{% include form-message.html.liquid %}';
@@ -71,7 +75,7 @@
     });
     CMS.registerEditorComponent({
       // Internal id of the component
-      id: "orm-booking",
+      id: "form-booking",
       // Visible label
       label: "Formulaire de réservation",
       // Fields the user need to fill out when adding an instance of the component
@@ -107,6 +111,10 @@
       fields: [],
       // Pattern to identify a block as being an instance of this component
       pattern: /{% include google-map.html.liquid %}/,
+      // Function to extract data elements from the regexp match
+      fromBlock: function(match) {
+        return {};
+      },
       // Function to create a text block from an instance of this component
       toBlock: function(obj) {
         return '{% include google-map.html.liquid %}';
