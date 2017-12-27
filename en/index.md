@@ -6,55 +6,60 @@ title: Welcome
 i18n-key: home
 ---
 
-{% capture img_alt %}A canal crossing the courtyard.{% endcapture %}
-{% capture img_caption %}L'Oasis is never short of water.{% endcapture %}
-{% include image.html.liquid
-    path="/images/photo/canal.jpg"
-    alt=img_alt
-    caption=img_caption 
-%}
+{% capture img_alt %}A canal crossing the courtyard.{% endcapture %}{% capture img_caption %}L'Oasis is never short of water.{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/canal.jpg" alt=img_alt caption=img_caption %}
 
+# Welcome
 
-<h1>{{ page.title }}</h1>
+## Ora et
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Omnia contraria, quos etiam insanos esse vultis.</b> Compensabatur, inquit, cum summis doloribus laetitia. <a href='http://loripsum.net/' target='_blank'>Cave putes quicquam esse verius.</a> Haec et tu ita posuisti, et verba vestra sunt. Duo Reges: constructio interrete. Nemo nostrum istius generis asotos iucunde putat vivere. Mihi, inquam, qui te id ipsum rogavi? </p>
+Lorem markdownum videoque, locus, lubrica. Cum Peleus demersit, ardescit caducas
+tu terram squalidus aeternus Danaos facta eventus in in nunc mei? Consequitur
+genus videtur *suum honorem Achillis* finita festinant, certius erat Tityos!
+Visis patris, mare sacris vestes, indeiecta et **cecinisse**, fertur: sonabat
+eripuisse tenentis, crinem.
 
-<p>Si de re disceptari oportet, nulla mihi tecum, Cato, potest esse dissensio. Quod non faceret, si in voluptate summum bonum poneret. Tu vero, inquam, ducas licet, si sequetur; Quid, cum fictas fabulas, e quibus utilitas nulla elici potest, cum voluptate legimus? Iubet igitur nos Pythius Apollo noscere nosmet ipsos. Nihil enim iam habes, quod ad corpus referas; </p>
+## Amores volucres dolet simulatoremque torumque
 
-<ul>
-	<li>Nam si +omnino nos+ neglegemus, in Aristonea vitia incidemus et peccata obliviscemurque quae virtuti ipsi principia dederimus;</li>
-	<li>Sed quid attinet de rebus tam apertis plura requirere?</li>
-	<li>Ergo adhuc, quantum equidem intellego, causa non videtur fuisse mutandi nominis.</li>
-	<li>Legimus tamen Diogenem, Antipatrum, Mnesarchum, Panaetium, multos alios in primisque familiarem nostrum Posidonium.</li>
-</ul>
+Positoque dis meque thalamis facibus pastorve opis. Sua gentis, te venti diligis
+ambit taceam, reminiscitur **forte**.
 
+1. Delonque sua protinus quereretur oscula
+2. Pereant sanguine dixit blanditiis parte anima
+3. Bis deorum ut territus telum erit ignem
+4. Relinquit odoro
 
-<blockquote cite='http://loripsum.net'>
-	Satisne igitur videor vim verborum tenere, an sum etiam nunc vel Graece loqui vel Latine docendus?
-</blockquote>
+## Sub cum apte animalia cibos in dixit
 
+Aliquid non *herba sublimis* libro, macies quaesita dolentius ferox quod visa se
+fuit tulisse, qualis sed urbem ad. Mentem in miror nullo illa perit rem agendum
+pondere tenens? Ecce illa et sidera decor norant duxere iaculum isto,
+frondescere tibi; pedem furit quaerit illi solet umeris nactusque. Iterata locus
+praecepta eras refert arma, vis ad honesta. Facit se daedalus qua quid,
+dominaeque unguibus amorem Poemenis.
 
-<ol>
-	<li>Estne, quaeso, inquam, sitienti in bibendo voluptas?</li>
-	<li>Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat;</li>
-	<li>Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est.</li>
-	<li>Et quod est munus, quod opus sapientiae?</li>
-	<li>Itaque hic ipse iam pridem est reiectus;</li>
-</ol>
+- Intellege miratur figitque imitantes locuta metuit Phoceaque
+- Tenuerunt Solis
+- Aequor pedes si utraque volvitur relicta madebit
 
+## Moror mitius columbas An lucus
 
-<p>Ergo illi intellegunt quid Epicurus dicat, ego non intellego? An me, inquam, nisi te audire vellem, censes haec dicturum fuisse? Sit enim idem caecus, debilis. Negat enim summo bono afferre incrementum diem. </p>
+Adiutus equos condi et tanta fugiunt. In age hoc sustulit a canenti Astyanax
+artus Nyctimene praebuit solo urbem herba derantque cum iam et *habuit*, est!
 
-<dl>
-	<dt><dfn>Beatum, inquit.</dfn></dt>
-	<dd>Sapiens autem semper beatus est et est aliquando in dolore;</dd>
-	<dt><dfn>Quid adiuvas?</dfn></dt>
-	<dd>Quare attende, quaeso.</dd>
-</dl>
+    trashPpm = kibibyteSocket(ipv, webBootHeat(plug_hdv_hard,
+            load_isp_clipboard(2, wanCellVci)), clone.inbox(oop,
+            secondary_direct));
+    dayMetal.threading_display_w += end(dpi);
+    var online_state = basicSoftware(2) + driveGrayscaleHacker(dataDisk,
+            intranet) + compatible;
+    roomPcHorse(transistor_target);
+    ctp_client += winsock_kilohertz_whois(hard_modem(veronica(
+            resolution_native_sink, memory_minimize, big_eps_saas), 768771,
+            xml_rfid), degauss, flops_output_mac);
 
-
-<p>Hanc quoque iucunditatem, si vis, transfer in animum; Inde igitur, inquit, ordiendum est. Nonne igitur tibi videntur, inquit, mala? Consequentia exquirere, quoad sit id, quod volumus, effectum. Quid enim me prohiberet Epicureum esse, si probarem, quae ille diceret? Vitiosum est enim in dividendo partem in genere numerare. <mark>Aliter enim nosmet ipsos nosse non possumus.</mark> Non modo carum sibi quemque, verum etiam vehementer carum esse? <b>Quid nunc honeste dicit?</b> <i>Bonum incolumis acies: misera caecitas.</i> </p>
-
-<h2>Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis.</h2>
-
-<p>Primum quid tu dicis breve? <i>An potest cupiditas finiri?</i> <a href='http://loripsum.net/' target='_blank'>Confecta res esset.</a> Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Eadem nunc mea adversum te oratio est. Quae cum essent dicta, discessimus. Non enim quaero quid verum, sed quid cuique dicendum sit. Verba tu fingas et ea dicas, quae non sentias? </p>
+Omni aut! *Paelex* alto sparsisque atque, vulnera rapidus c errandum aquas,
+cursu si laetabere, Peneos. **Expalluit iactat** rursus; meruere qui, nec
+festinat fuerat, gelidum vincar totiens tradat regis, eiectatamque. Gente lucem
+addiderat solito timor loquendi permisit colla et fidum cacumine. Satus
+[potest](http://natos-gerat.io/) ut quoque, tunc tenes et crines [maestaeque
+parvos](http://vota.io/nulli.php) solitaeque dature terruit, piumque est aris.

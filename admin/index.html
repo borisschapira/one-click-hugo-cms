@@ -23,7 +23,7 @@
         {name: 'path', label: 'Image', widget: 'image'},
         {name: 'alt', label: 'Alternative text', widget: 'string'},
         {name: 'caption', label: 'Caption of the image', widget: 'string'},
-        {name: 'type', label: 'Affichage', widget: "select", options: ["default", "onethird-left", "onethird-right"]}
+        {name: 'type', label: 'Affichage', widget: "select", options: ["default", "onethird-left", "onethird-right"], default: "default"}
         ],
       // Pattern to identify a block as being an instance of this component
       pattern: /{% capture img_alt %}(.*){% endcapture %}{% capture img_caption %}(.*){% endcapture %}{% include image.html.liquid type="(.*)" path="(.*)" alt=img_alt caption=img_caption %}/,
@@ -45,6 +45,77 @@
       toPreview: function(obj) {
         return (
           '<img src="' + obj.path + '" width=300 />'
+        );
+      }
+    });
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: "form-message",
+      // Visible label
+      label: "Formulaire de contact",
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /{% include form-message.html.liquid %}/,
+      // Function to create a text block from an instance of this component
+      toBlock: function(obj) {
+        return '{% include form-message.html.liquid %}';
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview: function(obj) {
+        return (
+          '<strong>FORMULAIRE DE CONTACT</strong>'
+        );
+      }
+    });
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: "orm-booking",
+      // Visible label
+      label: "Formulaire de réservation",
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [
+        {name: 'reassurance', label: 'Message de réassurance', widget: 'text'}
+        ],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /{% capture reassurance %}(.*){% endcapture %}{% include form-booking.html.liquid reassurance=reassurance %}/,
+      // Function to extract data elements from the regexp match
+      fromBlock: function(match) {
+        return {
+          reassurance: match[1]
+        };
+      },
+      // Function to create a text block from an instance of this component
+      toBlock: function(obj) {
+        return '{% capture reassurance %}' + obj.reassurance + '{% endcapture %}{% include form-booking.html.liquid reassurance=reassurance %}';
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview: function(obj) {
+        return (
+          '<strong>FORMULAIRE DE RÉSERVATION</strong><p>' + obj.reassurance + '</p>'
+        );
+      }
+    });
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: "map",
+      // Visible label
+      label: "Carte Google Maps",
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /{% include google-map.html.liquid %}/,
+      // Function to create a text block from an instance of this component
+      toBlock: function(obj) {
+        return '{% include google-map.html.liquid %}';
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview: function(obj) {
+        return (
+          '<strong>CARTE GOOGLE MAP</strong>'
         );
       }
     });
