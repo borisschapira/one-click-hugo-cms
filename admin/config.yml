@@ -20,3 +20,71 @@ collections:
           - {label: "Titre", name: "title", widget: "hidden", default: "Bienvenue"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "home"}
           - {label: "Contenu", name: "body", widget: markdown}
+      - name: "infos"
+        label: "Informations pratiques"
+        file: "infos.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "Informations pratiques"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "about"}
+          - {label: "Contenu", name: "body", widget: markdown}
+      - name: "tarifs"
+        label: "Tarifs et réservation"
+        file: "tarifs.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "Tarifs et réservation"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "booking"}
+          - {label: "Contenu", name: "body", widget: markdown}
+      - name: "a-proximite"
+        label: "À proximité de l'Oasis"
+        file: "a-proximite.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "À proximité de l'Oasis"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "nearby"}
+          - {label: "Contenu", name: "body", widget: markdown}
+  - name: "pages_en"
+    label: "Pages EN"
+    description: >
+      Pages en anglais du site
+    files:
+      - name: "index"
+        label: "Welcome"
+        file: "en/index.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "Welcome"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "home"}
+          - {label: "Contenu", name: "body", widget: markdown}
+      - name: "about"
+        label: "About us"
+        file: "en/about.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "About us"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "about"}
+          - {label: "Contenu", name: "body", widget: markdown}
+      - name: "booking"
+        label: "Prices and Booking"
+        file: "en/booking.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "Prices and Booking"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "booking"}
+          - {label: "Contenu", name: "body", widget: markdown}
+      - name: "nearby"
+        label: "Nearby the Oasis"
+        file: "en/nearby.html"
+        delete: false
+        fields:
+          - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Titre", name: "title", widget: "hidden", default: "Nearby the Oasis"}
+          - {label: "I18n", name: "i18n-key", widget: "hidden", default: "nearby"}
+          - {label: "Contenu", name: "body", widget: markdown}
