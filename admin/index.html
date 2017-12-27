@@ -12,5 +12,42 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
+  <script>
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: "rwd_image",
+      // Visible label
+      label: "RWD Image",
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [
+        {name: 'path', label: 'Image', widget: 'image'},
+        {name: 'alt', label: 'Alternative text', widget: 'string'},
+        {name: 'caption', label: 'Caption of the image', widget: 'string'},
+        {name: 'type', label: 'Affichage', widget: "select", options: ["default", "onethird-left", "onethird-right"]}
+        ],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /{% capture img_alt %}(.*){% endcapture %}{% capture img_caption %}(.*){% endcapture %}{% include image.html.liquid type="(.*)" path="(.*)" alt=img_alt caption=img_caption %}/,
+      // Function to extract data elements from the regexp match
+      fromBlock: function(match) {
+        return {
+          alt: match[1],
+          caption: match[2],
+          type: match[3],
+          path: match[4]
+        };
+      },
+      // Function to create a text block from an instance of this component
+      toBlock: function(obj) {
+        return '{% capture img_alt %}' + obj.alt + '{% endcapture %}{% capture img_caption %}'+ obj.caption +'{% endcapture %}{% include image.html.liquid type="' + obj.type + '" path="' + obj.path + '" alt=img_alt caption=img_caption %}';
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview: function(obj) {
+        return (
+          '<img src="' + obj.path + '" width=300 />'
+        );
+      }
+    });
+    </script>
 </body>
 </html>
