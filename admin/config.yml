@@ -19,7 +19,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "Bienvenue"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "home"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
       - name: "infos"
         label: "Informations pratiques"
         file: "infos.html"
@@ -28,7 +28,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "Informations pratiques"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "about"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
       - name: "tarifs"
         label: "Tarifs et réservation"
         file: "tarifs.html"
@@ -37,7 +37,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "Tarifs et réservation"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "booking"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
       - name: "a-proximite"
         label: "À proximité de l'Oasis"
         file: "a-proximite.html"
@@ -46,7 +46,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "À proximité de l'Oasis"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "nearby"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
   - name: "pages_en"
     label: "Pages EN"
     description: >
@@ -60,7 +60,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "Welcome"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "home"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
       - name: "about"
         label: "About us"
         file: "en/about.html"
@@ -69,7 +69,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "About us"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "about"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
       - name: "booking"
         label: "Prices and Booking"
         file: "en/booking.html"
@@ -78,7 +78,7 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "Prices and Booking"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "booking"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
       - name: "nearby"
         label: "Nearby the Oasis"
         file: "en/nearby.html"
@@ -87,4 +87,4 @@ collections:
           - {label: "Gabarit", name: "layout", widget: "hidden", default: "default"}
           - {label: "Titre", name: "title", widget: "hidden", default: "Nearby the Oasis"}
           - {label: "I18n", name: "i18n-key", widget: "hidden", default: "nearby"}
-          - {label: "Contenu", name: "body", widget: markdown}
+          - {label: "Contenu", name: "body", widget: text}
