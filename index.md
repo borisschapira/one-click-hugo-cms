@@ -3,44 +3,48 @@ layout: default
 title: Bienvenue
 i18n-key: home
 ---
-{% cloudinary /images/photo/oasis.jpg alt="La façade d'un batiment, prise en biais. Un parterre de fleur multicolore est planté devant. Sur le mur, une pancate où il est écrit &quot;L'Oasis&quot;" caption="Entrée de l'Oasis, côté cour"%}
+{% capture img_alt %}La façade d'un batiment, prise en biais. Un parterre de fleur multicolore est planté devant. Sur le mur, une pancate où il est écrit &quot;L'Oasis&quot;{% endcapture %}{% capture img_caption %}Entrée de l'Oasis, côté cour{% endcapture %}{% include image.html.liquid type="default" path="/images/photo/oasis.jpg" alt=img_alt caption=img_caption %}
 
-<h1>{{ page.title }}</h1>
+# Laniata disque Iove indigenae inter
 
-<p>Ceci est un test</p>
+## Fuit per qui
 
-<p>Si de re disceptari oportet, nulla mihi tecum, Cato, potest esse dissensio. Quod non faceret, si in voluptate summum bonum poneret. Tu vero, inquam, ducas licet, si sequetur; Quid, cum fictas fabulas, e quibus utilitas nulla elici potest, cum voluptate legimus? Iubet igitur nos Pythius Apollo noscere nosmet ipsos. Nihil enim iam habes, quod ad corpus referas; </p>
+Lorem markdownum cecidere exercere calculus media fluentibus vulneraque et natae
+inter vestes aptamque licere. _Quis dea_, hoc in Achivi _audierat_ feris,
+**praemia turba mox** moliri; suum quidem, avus! Eripe quae ument qua Lycaon,
+mora legit, os ecce. Adiecerit vituli hospitium arva sua Inachis tuentes et
+aequus, paene voveo. Et per locus pro leviore fugit dapes mandata et opus.
 
-<ul>
-	<li>Nam si +omnino nos+ neglegemus, in Aristonea vitia incidemus et peccata obliviscemurque quae virtuti ipsi principia dederimus;</li>
-	<li>Sed quid attinet de rebus tam apertis plura requirere?</li>
-	<li>Ergo adhuc, quantum equidem intellego, causa non videtur fuisse mutandi nominis.</li>
-	<li>Legimus tamen Diogenem, Antipatrum, Mnesarchum, Panaetium, multos alios in primisque familiarem nostrum Posidonium.</li>
-</ul>
+> Frondibus vicinia abunde: sibi saeva, nec stipata protinus! Est quaerunt arva;
+> pictis alvo, supplex consistere, lactis.
 
-<blockquote cite='http://loripsum.net'>
-	Satisne igitur videor vim verborum tenere, an sum etiam nunc vel Graece loqui vel Latine docendus?
-</blockquote>
+## Ego ulla esset tamen ausa Aeneas verba
 
-<ol>
-	<li>Estne, quaeso, inquam, sitienti in bibendo voluptas?</li>
-	<li>Nec lapathi suavitatem acupenseri Galloni Laelius anteponebat, sed suavitatem ipsam neglegebat;</li>
-	<li>Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est.</li>
-	<li>Et quod est munus, quod opus sapientiae?</li>
-	<li>Itaque hic ipse iam pridem est reiectus;</li>
-</ol>
+Ambiguum geminat tecta collumque priori resque, exit credidit fert custodia
+direpta recuset. Laborum suum aevis, et et vices nomina: ora! Inplet speciem et
+fidum quicquam timore!
 
-<p>Ergo illi intellegunt quid Epicurus dicat, ego non intellego? An me, inquam, nisi te audire vellem, censes haec dicturum fuisse? Sit enim idem caecus, debilis. Negat enim summo bono afferre incrementum diem. </p>
+## Telum emicuit deorum est mox stetit cui
 
-<dl>
-	<dt><dfn>Beatum, inquit.</dfn></dt>
-	<dd>Sapiens autem semper beatus est et est aliquando in dolore;</dd>
-	<dt><dfn>Quid adiuvas?</dfn></dt>
-	<dd>Quare attende, quaeso.</dd>
-</dl>
+Tempore umidus ultima, contingere est socios, unum vestris commune nefas? Fere
+[citharae](http://ductaemirum.io/) haec, et auctor abstulit fuerat manibus de,
+Nonacrina et currus Aethalion nomen? Simus silvas,
+[pendent](http://www.fecere.com/ipso-et.php) ille.
 
-<p>Hanc quoque iucunditatem, si vis, transfer in animum; Inde igitur, inquit, ordiendum est. Nonne igitur tibi videntur, inquit, mala? Consequentia exquirere, quoad sit id, quod volumus, effectum. Quid enim me prohiberet Epicureum esse, si probarem, quae ille diceret? Vitiosum est enim in dividendo partem in genere numerare. <mark>Aliter enim nosmet ipsos nosse non possumus.</mark> Non modo carum sibi quemque, verum etiam vehementer carum esse? <b>Quid nunc honeste dicit?</b> <i>Bonum incolumis acies: misera caecitas.</i> </p>
+## Inplevit posco
 
-<h2>Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis.</h2>
+Quaeritur caret praeside? Summum quod quae e est timeas semidei illi.
 
-<p>Primum quid tu dicis breve? <i>An potest cupiditas finiri?</i> <a href='http://loripsum.net/' target='_blank'>Confecta res esset.</a> Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Eadem nunc mea adversum te oratio est. Quae cum essent dicta, discessimus. Non enim quaero quid verum, sed quid cuique dicendum sit. Verba tu fingas et ea dicas, quae non sentias? </p>
+```
+link = -4 + flat_pretest;
+copyright += interfaceIm;
+mail.smishing_dtd += waveMemeQwerty;
+expression = access_full_fifo.cmsTelnet(terabyte(54));
+```
+
+Esto lucibus in inrita novissima fertque velatos temptamina fixis sollicitive
+suoque occasus addunt rorantia infelix iustis taciturnus ponunt. In molitor toro
+quis Dromas: Liber turbata Pallas fortissimus cruore petiit
+[solet](http://cornuaamor.net/tamen-ille.html) magico; et in. Ficta consistite
+etiam laedar deorum plangitur, aegide ratus aevo quamquam in pondera pennisque
+teque: silvis tibi.
