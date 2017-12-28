@@ -44,6 +44,8 @@ Petit-déjeuner, déjeuner, dîner, pique-nique ou collation, organisez votre s�
 
 Niché entre les deux bras de la Beauronne et accessible aux personnes à mobilité réduite, découvrez le charme de ce grand parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. 
 
+Vérifier dans le parc en faisant les photos, je pense qu'il y a aussi un parcours culturel dans le parc ?
+
 ## La Chapelle
 
 La Chapelle vous ouvre ses portes, à tout moment de la journée, pour goûter à la sérénité d'un moment de prière, ou rejoindre Les Filles de la Charité lors des deux offices quotidiens (messe à 11h15 et vêpres à 18h15).
