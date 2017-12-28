@@ -1,16 +1,17 @@
---- 
-layout: default 
-title: Informations pratiques
-i18n-key: about 
 ---
-
+layout: default
+title: Informations pratiques
+i18n-key: about
+---
 # Informations pratiques
 
 ## Comment venir ?
 
-**De Paris** : aestimabat pecuniam non modo non contra leges, sed etiam legibus partam. Honesta oratio, Socratica, Platonis etiam. Quasi ego id curem, quid ille aiat aut neget. Solum praeterea formosum, solum liberum, solum civem, stultost; Quid ergo attinet gloriose loqui, nisi constanter loquare? Ratio quidem vestra sic cogit. Cave putes quicquam esse verius.
+**En train **: la gare de Château l'Evêque se situe sur la ligne Limoges-Bénédictains - Périgueux (deux passages par jour, en semaine et le week-end), à quelques mètres de l'entrée de notre établissement
 
-**De Périgueux** : aestimabat pecuniam non modo non contra leges, sed etiam legibus partam. Honesta oratio, Socratica, Platonis etiam. Quasi ego id curem, quid ille aiat aut neget. Solum praeterea formosum, solum liberum, solum civem, stultost; Quid ergo attinet gloriose loqui, nisi constanter loquare? Ratio quidem vestra sic cogit. Cave putes quicquam esse verius.</p>
+**En bus **: la ligne 14 accessible depuis le centre-ville de Périgueux, vous dépose à la gare de Château l'Evêque (deux passages par jour en semaine et le week-end), en face de l'entrée de notre établissement
+
+**En voiture **: depuis l'autoroute A89 (Bordeaux - Lyon) sortie 14 ou depuis la nationale N21 (Limoges - Lourdes), suivez la D939 jusqu'à la gare de Château l'Evêque
 
 {% include google-map.html.liquid %}
 
