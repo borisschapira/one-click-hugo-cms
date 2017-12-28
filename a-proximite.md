@@ -19,7 +19,16 @@ C'est désormais une propriété privée ouverte aux visiteurs sous conditions (
 ## L'église Saint-Julien
 
 <div class="row">
-	<p class="p2-3 right"><b>Située à quelques pas de l'Oasis, elle intègre la chapelle castrale dans laquelle Saint Vincent de Paul fut ordonné prêtre le 23 septembre 1600 par Monseigneur François de Bourdeilles. Voir avec les Soeurs pour les offices.</p>
+	<p class="p2-3 right">Située à quelques pas de l'Oasis, elle intègre la chapelle castrale dans laquelle Saint Vincent de Paul fut ordonné prêtre le 23 septembre 1600 par Monseigneur François de Bourdeilles. Voir avec les Soeurs pour les offices.</p>
+
+{% capture img_alt %}Extérieur de l'église Saint-Julien de Château l'Evêque{% endcapture %}{% capture img_caption %}???{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/72_24115_17_5f12.jpg" alt=img_alt caption=img_caption %}
+
+</div>
+
+## ... et tant d'autres
+
+<div class="row">
+	<p class="p2-3 right">La commune de Château l'Evêque regorge de bâtiments témoins de son histoire - manoirs, châteaux, demeures nobles - de quoi réjouir les amoureux des pierres (<https://fr.wikipedia.org/wiki/Ch%C3%A2teau-l%27%C3%89v%C3%AAque>)</p>
 
 {% capture img_alt %}Extérieur de l'église Saint-Julien de Château l'Evêque{% endcapture %}{% capture img_caption %}???{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/72_24115_17_5f12.jpg" alt=img_alt caption=img_caption %}
 
