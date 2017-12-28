@@ -32,8 +32,18 @@ C'est désormais une propriété privée ouverte aux visiteurs sous conditions (
 
 </div>
 
+## Chemins de randonnée
 
+Pour les adeptes de la marche, seul ou en groupe avec l'association Sport, Loisirs et Culture, deux boucles de randonnée sont accessibles au départ de la gare de Château l'Evêque : la boucle du Ladoux (8.4 km) et la boucle de Preyssac (13 km). 
+
+Informations et programmes des randonnées de l'association SLC auprès de Mmes Christine Thibaud (05 53 54 32 05) et Jeannine Lavergne (05 53 04 68 05). 
 
 
 
 # Aux alentours
+
+## Périgueux 
+
+A dix minutes en voiture, la ville de Périgueux vous invite à découvrir ses trésors architecturaux (amphithéâtre, cathédrale Saint Front, hôtels particuliers et vestiges gallo-romains) et ses charmantes rues piétonnes pavées. 
+
+Retrouvez le programme des animations culturelles de la ville sur le site
