@@ -5,7 +5,7 @@
             {{ site.contact.name }}
             <br/>{{ site.contact.address1 }}
             <br/>{{ site.contact.address2 }}
-            <br/>{% t Tél. : %} <a href="tel:{{ site.contact.phone | replace: " ", """" }}">{{ site.contact.phone }}</a>
+            <br/>{% t Tél. : %} <a href="tel:{{ site.contact.phone | replace: " ", """" | replace: ")0", "" | replace: "(", "" }}">{{ site.contact.phone }}</a>
         </p>
     </footer>
 </div>

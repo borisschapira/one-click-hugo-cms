@@ -19,7 +19,7 @@ contact:
   name: L'Oasis
   address1: Rue Soeur Jean Gabriel
   address2: 24460 Château-L'Évêque
-  phone: "05 53 54 30 71"
+  phone: "(+33) 05 53 54 30 71"
 baseurl: "/"
 url: "https://oasis-24750.netlify.com/"
 permalink: :year/:month/:title/

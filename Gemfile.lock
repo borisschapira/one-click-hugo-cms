@@ -25,8 +25,6 @@ GEM
       jekyll (>= 3.0, < 4.0)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
-    jekyll-sitemap (1.1.1)
-      jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.16.2)
@@ -58,11 +56,10 @@ DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-cloudinary
   jekyll-microtypo
-  jekyll-sitemap
   tzinfo-data
 
 RUBY VERSION
    ruby 2.4.2p198
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
