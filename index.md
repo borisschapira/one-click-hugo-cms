@@ -5,7 +5,8 @@ i18n-key: home
 ---
 {% capture img_alt %}La façade d'un batiment, prise en biais. Un parterre de fleur multicolore est planté devant. Sur le mur, une pancate où il est écrit &quot;L'Oasis&quot;{% endcapture %}{% capture img_caption %}Entrée de l'Oasis, côté cour{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/oasis.jpg" alt=img_alt caption=img_caption %}
 
-A quelques minutes de Périgueux, l'Oasis vous accueille pour un séjour ressourçant. Laissez-vous séduire par le charme de son parc fleuri et la quiétude de sa Chapelle. Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de culture. Enrichissez-vous des témoignages des Filles de la Charité, de leurs voyages à travers le monde. 
+À quelques minutes de Périgueux, l'Oasis vous accueille pour un séjour ressourçant. Laissez-vous séduire par le charme de son parc fleuri et la quiétude de sa Chapelle.  
+Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de culture. Enrichissez-vous des témoignages des Filles de la Charité, de leurs voyages à travers le monde. 
 
 ## Hôtellerie
 
@@ -29,10 +30,10 @@ Pour les séjours plus longs et les visiteurs souhaitant conserver leur indépen
 
 Petites ou grandes, indépendantes ou communicantes, l'Oasis possède plusieurs salles de conférences pour s'adapter à vos besoins : 
 
-* (elle a un nom particulier ?), pouvant accueillir jusqu'à 60 personnnes et équipée d'un vidéo projecteur et d'une grande télévision avec sanitaires indépendants
-* Béthanie, petite salle de réunion pouvant accueillir une dizaine de personnes, avec sanitaires attenants
-* l'Ermitage, bâtiment de plain pied et accessible aux personnes à mobilité réduite, composé d'une longue salle de séminaire pouvant accueillir une vingtaine de personnes et d'un petit salon attenant, d'une terrasse (avec barbecue) et d'un accès direct au parc
-* Jean XIII, double salle pouvant être séparées par une paroi coulissante au besoin pouvant accueillir une trentaine de personnes
+* Notre **Grande Salle**, pouvant accueillir jusqu'à 60 personnnes et équipée d'un vidéo projecteur et d'une grande télévision avec sanitaires indépendants ;
+* **Béthanie**, une salle de réunion pouvant accueillir une dizaine de personnes, avec sanitaires attenants ;
+* **l'Ermitage**, un bâtiment de plain pied accessible aux personnes à mobilité réduite, composé d'une longue salle de séminaire pouvant accueillir une vingtaine de personnes et d'un petit salon attenant, d'une terrasse (avec barbecue) et d'un accès direct au parc ;
+* **Jean XIII**, deux salles pouvant être séparées par une paroi coulissante, pouvant accueillir une trentaine de personnes.
 
 ## Restauration
 
