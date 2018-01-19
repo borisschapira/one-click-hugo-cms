@@ -5,46 +5,47 @@ i18n-key: home
 ---
 {% capture img_alt %}La façade d'un batiment, prise en biais. Un parterre de fleur multicolore est planté devant. Sur le mur, une pancate où il est écrit &quot;L'Oasis&quot;{% endcapture %}{% capture img_caption %}Entrée de l'Oasis, côté cour{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/oasis.jpg" alt=img_alt caption=img_caption %}
 
-# Laniata disque Iove indigenae inter
+A quelques minutes de Périgueux, l'Oasis vous accueille pour un séjour ressourçant. Laissez-vous séduire par le charme de son parc fleuri et la quiétude de sa Chapelle. Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de culture. Enrichissez-vous des témoignages des Filles de la Charité, de leurs voyages à travers le monde. 
 
-## Fuit per qui
+## Hôtellerie
 
-Lorem markdownum cecidere exercere calculus media fluentibus vulneraque et natae
-inter vestes aptamque licere. _Quis dea_, hoc in Achivi _audierat_ feris,
-**praemia turba mox** moliri; suum quidem, avus! Eripe quae ument qua Lycaon,
-mora legit, os ecce. Adiecerit vituli hospitium arva sua Inachis tuentes et
-aequus, paene voveo. Et per locus pro leviore fugit dapes mandata et opus.
+Entièrement rénové en 2015, l'Oasis comprend 28 chambres, équipées de sanitaires et d'un accès au Wifi (1 chambre familiale pouvant accueillir jusqu'à 6 personnes, 15 chambres doubles et 11 chambres individuelles), dont 2 chambres accessibles aux personnes à mobilité réduite. Certaines chambres ont conservé leur mur de pierres apparentes et leurs arcades, vestiges de cet établissement ancré dans l'histoire. 
 
-> Frondibus vicinia abunde: sibi saeva, nec stipata protinus! Est quaerunt arva;
-> pictis alvo, supplex consistere, lactis.
+Vous pourrez profiter du salon équipé d'une tisanerie et d'une télévision pour un moment de partage et de convivialité. 
 
-## Ego ulla esset tamen ausa Aeneas verba
+## Appartements
 
-Ambiguum geminat tecta collumque priori resque, exit credidit fert custodia
-direpta recuset. Laborum suum aevis, et et vices nomina: ora! Inplet speciem et
-fidum quicquam timore!
+L'Oasis dispose de deux appartements hôteliers : 
 
-## Telum emicuit deorum est mox stetit cui
+* le Cascadeur, composé d'un bureau, d'une chambre double et d'une salle d'eau avec sanitaires attenante,
+* le Prédicateur, composé d'un bureau, d'une grande chambre double avec canapé et télévision et d'une salle d'eau avec sanitaires indépendante 
 
-Tempore umidus ultima, contingere est socios, unum vestris commune nefas? Fere
-[citharae](http://ductaemirum.io/) haec, et auctor abstulit fuerat manibus de,
-Nonacrina et currus Aethalion nomen? Simus silvas,
-[pendent](http://www.fecere.com/ipso-et.php) ille.
+Pour les séjours plus longs et les visiteurs souhaitant conserver leur indépendance, l'Oasis vous accueille également :
 
-## Inplevit posco
+* aux Capucines, maison de plain pied, dont l'entrée se fait côté rue, comprenant une grande cuisine-salle à manger, deux chambres doubles, un dégagement et une salle d'eau avec sanitaires indépendante
+* à la Familiale, maison de plain pied comprenant une chambre simple, une petite cuisine équipée, une salle à manger et une chambre double avec salle d'eau attenante et sanitaires indépendants. 
 
-Quaeritur caret praeside? Summum quod quae e est timeas semidei illi.
+## Salles de conférences
 
-```
-link = -4 + flat_pretest;
-copyright += interfaceIm;
-mail.smishing_dtd += waveMemeQwerty;
-expression = access_full_fifo.cmsTelnet(terabyte(54));
-```
+Petites ou grandes, indépendantes ou communicantes, l'Oasis possède plusieurs salles de conférences pour s'adapter à vos besoins : 
 
-Esto lucibus in inrita novissima fertque velatos temptamina fixis sollicitive
-suoque occasus addunt rorantia infelix iustis taciturnus ponunt. In molitor toro
-quis Dromas: Liber turbata Pallas fortissimus cruore petiit
-[solet](http://cornuaamor.net/tamen-ille.html) magico; et in. Ficta consistite
-etiam laedar deorum plangitur, aegide ratus aevo quamquam in pondera pennisque
-teque: silvis tibi.
+* (elle a un nom particulier ?), pouvant accueillir jusqu'à 60 personnnes et équipée d'un vidéo projecteur et d'une grande télévision avec sanitaires indépendants
+* Béthanie, petite salle de réunion pouvant accueillir une dizaine de personnes, avec sanitaires attenants
+* l'Ermitage, bâtiment de plain pied et accessible aux personnes à mobilité réduite, composé d'une longue salle de séminaire pouvant accueillir une vingtaine de personnes et d'un petit salon attenant, d'une terrasse (avec barbecue) et d'un accès direct au parc
+* Jean XIII, double salle pouvant être séparées par une paroi coulissante au besoin pouvant accueillir une trentaine de personnes
+
+## Restauration
+
+Nos repas sont entièrement confectionnés sur place et privilégient les produits frais et du terroir. Nos cuisinières ont du talent et s'adaptent à vos régimes particuliers. 
+
+Petit-déjeuner, déjeuner, dîner, pique-nique ou collation, organisez votre séjour selon vos envies. 
+
+## Le Parc
+
+Niché entre les deux bras de la Beauronne et accessible aux personnes à mobilité réduite, découvrez le charme de ce grand parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. 
+
+Vérifier dans le parc en faisant les photos, je pense qu'il y a aussi un parcours culturel dans le parc ?
+
+## La Chapelle
+
+La Chapelle vous ouvre ses portes, à tout moment de la journée, pour goûter à la sérénité d'un moment de prière, ou rejoindre Les Filles de la Charité lors des deux offices quotidiens (messe à 11h15 et vêpres à 18h15).
