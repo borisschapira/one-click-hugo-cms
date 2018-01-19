@@ -3,49 +3,99 @@ layout: default
 title: Tarifs et réservation
 i18n-key: booking
 ---
-
 # Tarifs et réservation
 
-## Nos tarifs <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small>
+## Nos tarifs hôtellerie <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small> 
 
 <table>
 <tbody><tr>
 <th></th>
-<th>Suite Laborie</th>
-<th>Chambre Joséphine</th>
-<th>Chambre Rocaille</th>
+<th>Nuitée</th>
+<th>Semaine</th>
+<th>Quatorzaine</th>
 </tr>
 <tr>
-<td>1 personne</td>
-<td colspan="2"></td>
-<td colspan="1">60 €</td>
+<td>Chambre simple</td>
+<td>€</td>
+<td>€</td>
+<td>€</td>
 </tr>
 <tr>
-<td>2 personnes</td>
-<td>100 €</td>
-<td>90 €</td>
-<td>80 €</td>
+<td>Chambre double</td>
+<td> €</td>
+<td>€</td>
+<td>€</td>
 </tr>
 <tr>
-<td>Personne supplémentaire</td>
-<td colspan="2">22 €</td>
+<td>Chambre familiale</td>
+<td> €</td>
+<td>€</td>
+<td>€</td>
 <td></td>
 </tr>
 <tr>
-<td>Bébé (- 2 ans)</td>
-<td colspan="3">5 €</td>
+<td>Le Cascadeur</td>
+<td> €</td>
+<td>€</td>
+<td>€</td>
 </tr>
 <tr>
-<td>Repas (vin compris)</td>
-<td colspan="3">30 €</td>
+<td>Le Prédicateur</td>
+<td> €</td>
+<td>€</td>
+<td>€</td>
 </tr>
 <tr>
-<td>Repas enfant (2 à 12 ans)</td>
-<td colspan="3">12 €</td>
+<td>Les Capucines</td>
+<td> €</td>
+<td>€</td>
+<td>€</td>
 </tr>
 <tr>
-<td>Panier pique-nique midi</td>
-<td colspan="3">12 €</td>
+<td>La familiale</td>
+<td> €</td>
+<td>€</td>
+<td>€</td>
+</tr>
+</tbody></table>
+
+## Nos tarifs restauration <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small> 
+
+<table>
+<tbody><tr>
+<th></th>
+<th>Individuel</th>
+<th>Groupe (> 20 pers)</th>
+</tr>
+<tr>
+<td>Pension complète</td>
+<td>€</td>
+<td>€</td>
+</tr>
+<tr>
+<td>Demi-pension</td>
+<td> €</td>
+<td>€</td>
+</tr>
+<tr>
+<td>Petit-déjeuner</td>
+<td> €</td>
+<td>€</td>
+</tr>
+<tr>
+<td>Déjeuner</td>
+<td> €</td>
+<td>€</td>
+</tr>
+<tr>
+<td>Dîner</td>
+<td> €</td>
+<td>€</td>
+</tr>
+<tr>
+<td>Collation</td>
+<td> €</td>
+<td>€</td>
 </tr>
 </tbody></table>
 
