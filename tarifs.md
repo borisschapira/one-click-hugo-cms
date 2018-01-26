@@ -83,6 +83,12 @@ i18n-key: booking
 <td> 10 €</td>
 <td>8 €</td>
 </tr>
+
+<tr>
+<td>Pique-nique</td>
+<td> 10 €</td>
+<td>8 €</td>
+</tr>
 </tbody></table>
 
 ## Faire une demande de réservation
