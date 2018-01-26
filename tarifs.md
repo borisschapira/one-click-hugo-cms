@@ -70,23 +70,18 @@ i18n-key: booking
 </tr>
 <tr>
 <td>Petit-déjeuner</td>
-<td> €</td>
-<td>€</td>
+<td> 5 €</td>
+<td>4 €</td>
 </tr>
 <tr>
 <td>Déjeuner</td>
-<td> €</td>
-<td>€</td>
+<td> 12 €</td>
+<td>10 €</td>
 </tr>
 <tr>
 <td>Dîner</td>
-<td> €</td>
-<td>€</td>
-</tr>
-<tr>
-<td>Collation</td>
-<td> €</td>
-<td>€</td>
+<td> 10 €</td>
+<td>8 €</td>
 </tr>
 </tbody></table>
 
