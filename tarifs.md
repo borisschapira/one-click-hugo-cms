@@ -5,60 +5,52 @@ i18n-key: booking
 ---
 # Tarifs et réservation
 
-## Nos tarifs hôtellerie <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small> 
+## Nos tarifs hôtellerie <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small>
 
 <table>
 <tbody><tr>
 <th></th>
 <th>Nuitée</th>
+
 <th>Semaine</th>
-<th>Quatorzaine</th>
+
+<th>Mois</th>
 </tr>
 <tr>
 <td>Chambre simple</td>
-<td>€</td>
-<td>€</td>
-<td>€</td>
+<td>18 €</td>
 </tr>
 <tr>
 <td>Chambre double</td>
-<td> €</td>
-<td>€</td>
-<td>€</td>
+<td> 34 €</td>
 </tr>
 <tr>
-<td>Chambre familiale</td>
-<td> €</td>
-<td>€</td>
-<td>€</td>
+<td>Chambre familiale (4 à 6 lits)</td>
+<td>66 €</td>
 </tr>
 <tr>
 <td>Le Cascadeur</td>
-<td> €</td>
-<td>€</td>
-<td>€</td>
+<td>38 €</td>
 </tr>
 <tr>
 <td>Le Prédicateur</td>
-<td> €</td>
-<td>€</td>
-<td>€</td>
+<td>38 €</td>
 </tr>
 <tr>
 <td>Les Capucines</td>
-<td> €</td>
-<td>€</td>
-<td>€</td>
+<td> </td>
+<td>350 €</td>
+<td>1 200 €</td>
 </tr>
 <tr>
 <td>La familiale</td>
-<td> €</td>
-<td>€</td>
-<td>€</td>
+<td> </td>
+<td>350 €</td>
+<td>1 200 €</td>
 </tr>
 </tbody></table>
 
-## Nos tarifs restauration <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small> 
+## Nos tarifs restauration <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small>
 
 <table>
 <tbody><tr>
@@ -100,4 +92,4 @@ i18n-key: booking
 
 ## Faire une demande de réservation
 
-{% capture reassurance %}Nous vous répondrons au plus vite. Si toute fois vous aviez besoin de nous joindre, vous pouvez nous appeler au <a href="tel:{{ site.contact.phone | replace: " ", "" | replace: ")0", "" | replace: "(", "" }}">{{ site.contact.phone }}</a>{% endcapture %}{% include form-booking.html.liquid reassurance=reassurance %}
+{% capture reassurance %}Nous vous répondrons au plus vite. Si toute fois vous aviez besoin de nous joindre, vous pouvez nous appeler au <a href="tel:{{ site.contact.phone | replace: " ", """" | replace: ")0", "" | replace: "(", "" }}">{{ site.contact.phone }}</a>{% endcapture %}{% include form-booking.html.liquid reassurance=reassurance %}
