@@ -30,6 +30,16 @@ i18n-key: booking
 </tr>
 
 <tr>
+<td>Lit d'appoint</td>
+<td>10 €</td>
+</tr>
+
+<tr>
+<td>Lit bébé</td>
+<td>5 €</td>
+</tr>
+
+<tr>
 <td>Petit-déjeuner</td>
 <td>5 €</td>
 </tr>
@@ -44,8 +54,6 @@ i18n-key: booking
 <td>10 €</td>
 </tr>
 </tbody></table>
-
-Lit d'appoint supplémentaire : 10 € / Lit bébé : 5 €
 
 
 
