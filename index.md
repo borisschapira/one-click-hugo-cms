@@ -22,8 +22,8 @@ Petites ou grandes, indépendantes ou communicantes, l'Oasis possède plusieurs 
 
 * **La** **Grande Salle**, pouvant accueillir jusqu'à 60 personnnes et équipée d'un vidéoprojecteur ;
 * **Béthanie**, pouvant accueillir une dizaine de personnes ;
-* **l'Ermitage**, un bâtiment de plain pied accessible aux personnes à mobilité réduite, composé d'une longue salle pouvant accueillir une vingtaine de personnes et d'un petit salon attenant, d'une terrasse (avec barbecue) et d'un accès direct au parc (cette salle n'est pas équipée de sanitaires) ;
-* **Jean XIII**, deux salles pouvant être séparées par une paroi coulissante, pouvant accueillir une trentaine de personnes.
+* **l'Ermitage**, un bâtiment de plain pied accessible aux personnes à mobilité réduite, composé d'une longue salle pouvant accueillir une vingtaine de personnes, d'un petit salon attenant, d'une terrasse (avec barbecue) et d'un accès direct au parc (cette salle n'est pas équipée de sanitaires) ;
+* **Jean XIII**, deux salles pouvant être séparées par une paroi coulissante, pouvant accueillir une trentaine de personnes, et partageant une grande terrasse ombragée.
 
 ## Restauration
 
