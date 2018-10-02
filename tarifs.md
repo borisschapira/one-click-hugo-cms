@@ -23,7 +23,6 @@ i18n-key: booking
 <td> 36 €</td>
 </tr>
 
-
 <tr>
 <td>Chambre familiale</td>
 <td>70 €</td>
@@ -54,8 +53,6 @@ i18n-key: booking
 <td>10 €</td>
 </tr>
 </tbody></table>
-
-
 
 ## Tarifs à la semaine - 6 nuitées <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small>
 
@@ -94,7 +91,6 @@ i18n-key: booking
 
 <td>490 €</td>
 </tr>
-
 
 <tr>
 <td>Chambre familiale (4 pers.)</td>
