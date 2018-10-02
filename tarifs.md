@@ -12,42 +12,35 @@ i18n-key: booking
 <th></th>
 <th>Nuitée</th>
 
-<th>Semaine</th>
+<th>Semaine (6 nuitées)</th>
 
-<th>Mois</th>
 </tr>
 <tr>
 <td>Chambre simple</td>
-<td>18 €</td>
+<td>20 €</td>
+
+<td>100 €</td>
 </tr>
 <tr>
 <td>Chambre double</td>
-<td> 34 €</td>
+<td> 36 €</td>
+
+<td>200 €</td>
+</tr>
+
+<tr>
+<td>Chambre d'affaires</td>
+<td>45 €</td>
+
+<td>250 €</td>
 </tr>
 <tr>
-<td>Chambre familiale (4 à 6 lits)</td>
-<td>66 €</td>
+<td>Chambre familiale</td>
+<td>70 €</td>
+
+<td>400 €</td>
 </tr>
-<tr>
-<td>Le Cascadeur</td>
-<td>38 €</td>
-</tr>
-<tr>
-<td>Le Prédicateur</td>
-<td>38 €</td>
-</tr>
-<tr>
-<td>Les Capucines</td>
-<td> </td>
-<td>350 €</td>
-<td>1 200 €</td>
-</tr>
-<tr>
-<td>La familiale</td>
-<td> </td>
-<td>350 €</td>
-<td>1 200 €</td>
-</tr>
+
 </tbody></table>
 
 ## Nos tarifs restauration <small>(prix <abbr title="Toutes Taxes Comprises">TTC</abbr>)</small>
