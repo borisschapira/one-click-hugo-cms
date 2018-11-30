@@ -16,7 +16,7 @@ C'est désormais une propriété privée ouverte aux visiteurs sous conditions (
 
 	</p>
 
-	{% capture img_alt %}Le château des Evêques{% endcapture %}{% capture img_caption %}par le Père Igor (CC BY-SA 3.0){% endcapture %}{% include image.html.liquid type="onethird-right" path="/images/uploads/château-l'evêque_château_1.jpg" alt=img_alt caption=img_caption %}
+	{% capture img_alt %}Le château des Evêques{% endcapture %}{% capture img_caption %}par le Père Igor (CC BY-SA 3.0){% endcapture %}{% include image.html.liquid type="onethird-right" path="/images/uploads/chateau-l-eveque_1.jpg" alt=img_alt caption=img_caption %}
 
 </div>
 
