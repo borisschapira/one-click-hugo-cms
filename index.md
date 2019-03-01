@@ -10,20 +10,19 @@ Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de c
 
 ## Hôtellerie
 
-Entièrement rénové en 2015, l'Oasis comprend 28 chambres dont 3 accessibles aux personnes à mobilité réduite, équipées de sanitaires indépendants et d'un accès au Wifi ainsi que deux "chambres d'affaires" (composées d'un bureau, d'une chambre double et de sanitaires indépendants). 
+Entièrement rénové en 2015, l'Oasis comprend 28 chambres dont 3 accessibles aux personnes à mobilité réduite, toutes équipées de sanitaires indépendants et d'un accès au Wifi. 
 
-Certaines chambres ont conservé leur mur de pierres apparentes et leurs arcades, vestiges de cet établissement ancré dans l'histoire. Vous pourrez également profiter du salon équipé d'une tisanerie et d'une télévision pour un moment de partage et de convivialité. 
+Certaines chambres ont conservé leur mur de pierres apparentes et leurs arcades, vestiges de cet établissement ancré dans l'histoire. Vous pourrez également profiter du salon équipé d'une tisanerie et d'une télévision pour des moments de partage et de convivialité. 
 
 Niché entre les deux bras de la Beauronne, découvrez le charme de notre parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. 
 
 ## Salles de conférences
 
-Petites ou grandes, indépendantes ou communicantes, l'Oasis possède plusieurs salles de conférences pour s'adapter à vos besoins : 
+Nous disposons de trois salles de réunion, de 20 à 50 places, pour accueillir vos réunions et séminaires. 
 
-* **La** **Grande Salle**, pouvant accueillir jusqu'à 60 personnnes et équipée d'un vidéoprojecteur ;
-* **Béthanie**, pouvant accueillir une dizaine de personnes ;
+* **La** **salle de conférence**, pouvant accueillir jusqu'à 50 personnnes et équipée d'un vidéoprojecteur ;
 * **l'Ermitage**, un bâtiment de plain pied accessible aux personnes à mobilité réduite, composé d'une longue salle pouvant accueillir une vingtaine de personnes, d'un petit salon attenant, d'une terrasse (avec barbecue) et d'un accès direct au parc (cette salle n'est pas équipée de sanitaires) ;
-* **Jean XIII**, deux salles pouvant être séparées par une paroi coulissante, pouvant accueillir une trentaine de personnes, et partageant une grande terrasse ombragée.
+* **Jean XIII**, pouvant être séparées par une paroi coulissante, pouvant accueillir une trentaine de personnes, donnant sur une grande terrasse ombragée.
 
 ## Restauration
 
