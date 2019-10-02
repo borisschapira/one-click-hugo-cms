@@ -55,19 +55,23 @@ i18n-key: booking
 
 </tr>
 
-<td>Déjeuner</td>
+<td>Déjeuner *</td>
 
 <td>12 €</td>
 
 </tr>
 
-<td>Dîner</td>
+<td>Dîner *</td>
 
 <td>10 €</td>
 
 </tr>
 
 </tbody></table>
+
+\* Une réduction de 2€ sera appliquée pour les enfants < 12 ans. 
+
+Pour toute demande spécifique (repas bébé ou enfants < 12 ans, régimes particuliers), merci de nous contacter.
 
 
 
@@ -134,73 +138,21 @@ i18n-key: booking
 </tr>
 
 <tr>
-<td>Chambre familiale (1 chambre double adulte avec possibilité d'ajouter un lit d'appoint + 1 chambre double enfants</td>
+<td>Chambre famille</td>
 
-</tr>
+<td>240 €</td>
 
-<tr> 
-
-<td>- pour 2 adultes et 2 enfants < 12 ans</td>
-<td>70 €</td>
+<td>330 €</td>
 
 <td>730 €</td>
 
-<td>1 000 €</td>
-</tr>
-
-<tr> 
-
-<td>- pour 2 adultes et 2 enfants > 12 ans</td>
-<td>70 €</td>
-
-<td>730 €</td>
-
-<td>1 000 €</td>
-</tr>
-
-<tr> 
-
-<td>- pour 2 adultes, 1 enfant < 12 ans et 1 enfant > 12 ans </td>
-<td>70 €</td>
-
-<td>730 €</td>
-
-<td>1 000 €</td>
-</tr>
-
-<tr>
-<td>Petit-déjeuner</td>
-<td>5 €</td>
-</tr>
-
-<tr>
-<td>Déjeuner</td>
-<td>12 €</td>
-</tr>
-
-<tr>
-<td>Dîner et pic-nic</td>
-<td>10 €</td>
+<td>990 €</td>
 </tr>
 </tbody></table>
 
-Pour toute demande spécifique (repas bébé ou enfants < 12 ans, régimes particuliers), merci de nous contacter.
+
 
 La taxe de séjour est de 0.60 € / nuit pour une chambre simple, 1.12 € / nuit pour une chambre double et 2.30 € / nuit pour la chambre familiale. Vous trouverez les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048). 
-
-## Salles
-
-Nous disposons de 3 salles de réunion, selon vos besoins : 
-
-\- Jean XXIII (20 places) - 40 € / jour
-
-\- Emitage (30 places) - 50 € / jour
-
-\- Conférence (50 places et munie d'un vidéoprojecteur) - 100 € / jour
-
-Merci de nous contacter pour toute demande particulière.
-
-## 
 
 ## Faire une demande de réservation
 
