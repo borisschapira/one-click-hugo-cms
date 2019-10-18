@@ -53,15 +53,27 @@ i18n-key: booking
 
 </tr>
 
+<tr>
+
 <td>Déjeuner *</td>
 
 <td>12 €</td>
 
 </tr>
 
+<tr>
+
 <td>Dîner *</td>
 
 <td>10 €</td>
+
+</tr>
+
+<tr>
+
+<td>Café "accueil"</td>
+
+<td>1.50 €</td>
 
 </tr>
 
