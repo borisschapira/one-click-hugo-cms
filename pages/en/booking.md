@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prices and Booking
+permalink: /en/booking
 i18n-key: booking
 ---
 

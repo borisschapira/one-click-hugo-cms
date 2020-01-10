@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About us
+permalink: /en/about
 i18n-key: about
 ---
 

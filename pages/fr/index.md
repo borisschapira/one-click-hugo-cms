@@ -2,6 +2,7 @@
 layout: default
 title: Bienvenue
 i18n-key: home
+permalink: /
 ---
 {% capture img_alt %}La façade d'un batiment, prise en biais. Un parterre de fleur multicolore est planté devant. Sur le mur, une pancate où il est écrit &quot;L'Oasis&quot;{% endcapture %}{% capture img_caption %}Entrée de l'Oasis, côté cour{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/oasis.jpg" alt=img_alt caption=img_caption %}
 

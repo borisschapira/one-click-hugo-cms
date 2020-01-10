@@ -2,6 +2,7 @@
 layout: default
 title: À proximité de l'Oasis
 i18n-key: nearby
+permalink: /a-proximite
 ---
 # Dans la commune
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nearby the Oasis
+permalink: /en/nearby
 i18n-key: nearby
 ---
 

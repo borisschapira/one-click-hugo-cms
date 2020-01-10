@@ -26,13 +26,13 @@ permalink: :year/:month/:title/
 locale: fr_FR
 defaults:
   - scope:
-      path: ""
+      path: "pages/fr"
     values:
       lang: fr
       locale: fr_FR
       base-url: "/"
   - scope:
-      path: "en"
+      path: "pages/en"
     values:
       locale: "en_US"
       base-url: "/en/"
