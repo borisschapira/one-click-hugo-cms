@@ -3,7 +3,7 @@ layout: default
 title: Tarifs indicatifs et réservation
 i18n-key: booking
 ---
-# Tarifs et réservation
+# Tarifs indicatifs et réservation
 
 ## Chambres seules
 
