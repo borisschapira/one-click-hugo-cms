@@ -8,77 +8,23 @@ permalink: /tarifs
 
 ## Chambres seules
 
-<table> <tbody>
-
-<tr>
-
-<td>Chambre simple</td>
-
-<td>22 €</td>
-
-</tr>
-
-<td>Chambre double</td>
-
-<td>38 €</td>
-
-</tr>
-
-<td>Chambre familiale *</td>
-
-<td>70 €</td>
-
-</tr>
-
-</tr>
-
-<td>Lit d'appoint (enfant < 12 ans)</td>
-
-<td>10 €</td>
-
-</tr>
-
-</tbody></table>
+| Type                            | Prix TTC |
+|---------------------------------|:--------:|
+| Chambre simple                  |   22 €   |
+| Chambre double                  |   38 €   |
+| Chambre familiale               |   70 €   |
+| Lit d'appoint (enfant < 12 ans) |   10 €   |
 
 \* La chambre familiale est composée d'une chambre double adultes (avec possibilité d'ajouter un lit d'appoint) et d'une chambre double enfants, d'une salle d'eau et d'un toilette.
 
 ## Repas
 
-<table> <tbody>
-
-<tr>
-
-<td>Petit-déjeuner</td>
-
-<td>4 €</td>
-
-</tr>
-
-<tr>
-
-<td>Déjeuner *</td>
-
-<td>12 €</td>
-
-</tr>
-
-<tr>
-
-<td>Dîner *</td>
-
-<td>10 €</td>
-
-</tr>
-
-<tr>
-
-<td>Café "accueil"</td>
-
-<td>1.50 €</td>
-
-</tr>
-
-</tbody></table>
+| Prestation     	| Prix TTC 	|
+|----------------	|:--------:	|
+| Petit déjeuner 	|    4 €   	|
+| Déjeuner       	|   10 €   	|
+| Dîner          	|   10 €   	|
+| Café "accueil" 	|  1.50 €  	|
 
 \* Une réduction de 2€ sera appliquée pour les enfants < 12 ans. 
 
