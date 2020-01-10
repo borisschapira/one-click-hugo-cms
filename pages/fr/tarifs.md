@@ -2,6 +2,7 @@
 layout: default
 title: Tarifs indicatifs et réservation
 i18n-key: booking
+permalink: /tarifs
 ---
 # Tarifs indicatifs et réservation
 
