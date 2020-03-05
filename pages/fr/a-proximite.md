@@ -36,7 +36,7 @@ Située à quelques pas de l'Oasis, elle intègre la chapelle castrale dans laqu
 
 ## ... et tant d'autres
 
-La commune de Château l'Evêque regorge de bâtiments témoins de son histoire - manoirs, châteaux, demeures nobles - de quoi réjouir les amoureux des pierres (liste complète sur le site [Château-L'Évèque](https://fr.wikipedia.org/wiki/Ch%C3%A2teau-l%27%C3%89v%C3%AAque).
+La commune de Château l'Evêque regorge de bâtiments témoins de son histoire - manoirs, châteaux, demeures nobles - de quoi réjouir les amoureux des pierres (liste complète sur le site [Château-L'Évèque](https://fr.wikipedia.org/wiki/Ch%C3%A2teau-l%27%C3%89v%C3%AAque)).
 
 ## Chemins de randonnée
 
