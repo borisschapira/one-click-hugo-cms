@@ -46,7 +46,7 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
 
 **\* Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (4 € pour les chambres simples et doubles, 5 € pour la chambre familiale), en plus des tarifs de nuitées indiqués ci-dessous.**
 
-**\** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).** 
+** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
 
 ## Repas
 
@@ -90,8 +90,6 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
     </tbody>
     </table>
     
-<figcaption><sup>*</sup> Une réduction de 2€ sera appliquée pour les enfants < 12 ans. </figcaption>
-</figure>
 
 Merci de nous préciser, lors de la réservation, toute demande spécifique (repas bébé, régime particulier). 
 
