@@ -13,6 +13,8 @@ Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de c
 
 Entièrement rénovée en 2015, l'Oasis comprend 28 chambres dont 3 accessibles aux personnes à mobilité réduite, équipées de sanitaires indépendants et d'un accès au Wifi. 
 
+{% capture img_alt %}La façade d'un batiment, prise en biais. Un parterre de fleur multicolore est planté devant. Sur le mur, une pancate où il est écrit &quot;L'Oasis&quot;{% endcapture %}{% capture img_caption %}Entrée de l'Oasis, côté cour{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/oasis.jpg" alt=img_alt caption=img_caption %}
+
 Certaines chambres ont conservé leur mur en pierres et leurs arcades, vestiges de cet établissement ancré dans l'histoire. Vous pourrez également profiter du salon équipé d'une tisanerie et d'une télévision pour des moments de partage et de convivialité. 
 
 ## Restauration
