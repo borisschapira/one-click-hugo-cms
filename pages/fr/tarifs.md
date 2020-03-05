@@ -105,7 +105,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
                 <td></td>
                 <td>Demi-pension</td>
                 <td>Pension complète</td>
-                <td>Taxe de séjour</td>
+                <td>Taxe de séjour **</td>
             </tr>
             <tr>
                 <td>Chambre simple</td>
@@ -137,7 +137,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
  **<figcaption><sup>*</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</figcaption>
 </figure>**
 
-Vous trouverez les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
+** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
 
 ## Faire une demande de réservation
 
