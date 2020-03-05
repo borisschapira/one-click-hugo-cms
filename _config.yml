@@ -36,6 +36,10 @@ defaults:
     values:
       locale: "en_US"
       base-url: "/en/"
+  - scope:
+      path: "admin"
+    values:
+      sitemap: false
 
 # Images RWD
 cloudinary:
