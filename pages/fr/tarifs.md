@@ -38,6 +38,7 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         <tr>
         <td>Lit d’appoint (enfant &lt; 12 ans)</td>
         <td class="price">10 €</td>
+        <td> - </td>
         </tr>
     </tbody>
     </table>
