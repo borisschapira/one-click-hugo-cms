@@ -209,6 +209,11 @@ table {
   border-collapse: collapse;
 }
 
+figure.left,
+figure.right {
+  margin: 0;
+}
+
 th {
   font-weight: bold;
 }
