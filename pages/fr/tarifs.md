@@ -10,8 +10,6 @@ permalink: /tarifs
 
 Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 1 chambre familiale (composée de deux chambres doubles, d'une salle d'eau et d'un sanitaire indépendant). Certaines chambres offrent la possibilité d'ajouter un lit d'appoint (enfant < 12 ans) ou un lit bébé (lit parapluie disponible gratuitement sur demande lors de la réservation). 
 
-**\* Un forfait ménage sera appliqué pour chaque séjour (4 € pour les chambres simples et doubles, 5 € pour la chambre familiale), en plus des tarifs de nuitées indiqués ci-dessous.**
-
 <figure>
     <table>
     <thead>
