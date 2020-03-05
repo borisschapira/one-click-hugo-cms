@@ -64,11 +64,12 @@ header a,
 
 .nav .active {
   font-weight: bold;
+  text-decoration: underline;
 }
 
-.nav .active::before {
+/* .nav .active::before {
   content: "✝";
-}
+} */
 
 .menu a {
   font-family: "Gabriela";
