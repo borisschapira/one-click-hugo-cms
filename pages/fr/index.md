@@ -17,7 +17,7 @@ Entièrement rénovée en 2015, l'Oasis comprend 27 chambres dont 3 accessibles 
 
 Certaines chambres ont conservé leur mur en pierres et leurs arcades, vestiges de cet établissement ancré dans l'histoire. Vous pourrez également profiter du salon équipé d'une tisanerie et d'une télévision pour des moments de partage et de convivialité. 
 
-{% capture img_alt %}Chambre simple mansardée avec arcade en pierre apparente{% endcapture %}{% capture img_caption %}Chambre simple à l'étage{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/ot-2018-l-oasis-023-jb.jpg" alt=img_alt caption=img_caption %}
+{% capture img_alt %}Salon et tisanerie avec une table et un coin cuisine{% endcapture %}{% capture img_caption %}Tisanerie et salon{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/ot-2018-l-oasis-023-jb.jpg" alt=img_alt caption=img_caption %}
 
 ## Restauration
 
