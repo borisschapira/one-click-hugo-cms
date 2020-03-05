@@ -4,11 +4,12 @@ title: Tarifs indicatifs et réservation
 i18n-key: booking
 permalink: /tarifs
 ---
+
 # Tarifs indicatifs et réservation
 
 ## Nuitées
 
-Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 1 chambre familiale (composée de deux chambres doubles, d'une salle d'eau et d'un sanitaire indépendant). Certaines chambres offrent la possibilité d'ajouter un lit d'appoint (enfant < 12 ans) ou un lit bébé (lit parapluie disponible gratuitement sur demande lors de la réservation). 
+Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 1 chambre familiale (composée de deux chambres doubles, d'une salle d'eau et d'un sanitaire indépendant). Certaines chambres offrent la possibilité d'ajouter un lit d'appoint (enfant < 12 ans) ou un lit bébé (lit parapluie disponible gratuitement sur demande lors de la réservation).
 
 <figure>
     <table>
@@ -42,10 +43,11 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         </tr>
     </tbody>
     </table>
+</figure>
 
-**\* Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (4 € pour les chambres simples et doubles, 5 € pour la chambre familiale), en plus des tarifs de nuitées indiqués ci-dessous.**
+<sup>*</sup> **Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (4 € pour les chambres simples et doubles, 5 € pour la chambre familiale), en plus des tarifs de nuitées indiqués ci-dessous.**
 
-** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
+<sup>**</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
 
 ## Repas
 
@@ -59,7 +61,7 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         <tr>
         <th>Prestation</th>
         <th>Adulte</th>
-        <th>Enfant < 12 ans</th>
+        <th>Enfant&nbsp;<&nbsp;12 ans</th>
         </tr>
     </thead>
     <tbody>
@@ -88,9 +90,10 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         </tr>
     </tbody>
     </table>
-    
+</figure>
 
-Merci de nous préciser, lors de la réservation, toute demande spécifique (repas bébé, régime particulier). 
+
+Merci de nous préciser, lors de la réservation, toute demande spécifique (repas bébé, régime particulier).
 
 ## Séjours
 
@@ -106,7 +109,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
                 <td></td>
                 <td>Demi-pension</td>
                 <td>Pension complète</td>
-                <td>Taxe de séjour **</td>
+                <td>Taxe de séjour<sup>**</sup></td>
             </tr>
             <tr>
                 <td>Chambre simple</td>
@@ -134,12 +137,10 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
             </tr>
         </tbody>
     </table>
-   
+    <figcaption><sup>*</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</figcaption>
+</figure>
 
- **<figcaption><sup>*</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</figcaption>
-</figure>**
-
-** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
+<sup>**</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
 
 ## Faire une demande de réservation
 
