@@ -4,31 +4,36 @@ title: Tarifs indicatifs et réservation
 i18n-key: booking
 permalink: /tarifs
 ---
-
 # Tarifs indicatifs et réservation
 
-## Chambres seules
+## Nuitées
+
+Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 1 chambre familiale (composée de deux chambres doubles, d'une salle d'eau et d'un sanitaire indépendant). Certaines chambres offrent la possibilité d'ajouter un lit d'appoint (enfant < 12 ans) ou un lit bébé (lit parapluie disponible gratuitement sur demande lors de la réservation). 
 
 <figure>
     <table>
     <thead>
         <tr>
         <th>Type</th>
-        <th class="price">Prix TTC</th>
+        <th class="price">Tarif hors ménage *</th>
+        <th>Taxe de séjour **</th>
         </tr>
     </thead>
     <tbody>
         <tr>
         <td>Chambre simple</td>
         <td class="price">22 €</td>
+        <td>0.73 €</td>
         </tr>
         <tr>
         <td>Chambre double</td>
-        <td class="price">38 €</td>
+        <td class="price">35 €</td>
+        <td>1.16 €</td>
         </tr>
         <tr>
-        <td>Chambre familiale<sup>*</sup></td>
+        <td>Chambre familiale</td>
         <td class="price">70 €</td>
+        <td>2.15 €</td>
         </tr>
         <tr>
         <td>Lit d’appoint (enfant &lt; 12 ans)</td>
@@ -36,8 +41,10 @@ permalink: /tarifs
         </tr>
     </tbody>
     </table>
-    <figcaption><sup>*</sup> La chambre familiale est composée d'une chambre double adultes (avec possibilité d'ajouter un lit d'appoint) et d'une chambre double enfants, d'une salle d'eau et d'un toilette.</figcaption>
-</figure>
+
+**\* Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (4 € pour les chambres simples et doubles, 5 € pour la chambre familiale), en plus des tarifs de nuitées indiqués ci-dessous.**
+
+** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
 
 ## Repas
 
@@ -45,41 +52,52 @@ permalink: /tarifs
     <table>
     <thead>
         <tr>
+        <th></th>
+        <th colspan="2">Tarif</th>
+        </tr>
+        <tr>
         <th>Prestation</th>
-        <th class="price">Prix TTC</th>
+        <th>Adulte</th>
+        <th>Enfant < 12 ans</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-        <td>Petit déjeuner<sup>*</sup></td>
-        <td class="price">4 €</td>
+        <td>Petit déjeuner</td>
+        <td colspan="2" class="price">5 €</td>
         </tr>
         <tr>
         <td>Déjeuner</td>
+        <td class="price">12 €</td>
         <td class="price">10 €</td>
         </tr>
         <tr>
         <td>Dîner</td>
         <td class="price">10 €</td>
+        <td class="price">8 €</td>
         </tr>
         <tr>
-        <td>Café « accueil »</td>
-        <td class="price">1,50 €</td>
+        <td>Pique-nique</td>
+        <td class="price">10 €</td>
+        <td class="price">8 €</td>
+        </tr>
+        <tr>
+        <td>Collation</td>
+        <td colspan="2" class="price">1,50 €</td>
         </tr>
     </tbody>
     </table>
-    <figcaption><sup>*</sup> Une réduction de 2€ sera appliquée pour les enfants < 12 ans. </figcaption>
-</figure>
+    
 
-Pour toute demande spécifique (repas bébé ou enfants < 12 ans, régimes particuliers), merci de nous contacter.
+Merci de nous préciser, lors de la réservation, toute demande spécifique (repas bébé, régime particulier). 
 
-## Chambres et repas
+## Séjours
 
 <figure>
     <table>
         <thead>
             <tr>
-                <th colspan="3">Semaine (6 nuits - 7 jours)</th>
+                <th colspan="5">Semaine (6 nuits - 7 jours)</th>
             </tr>
         </thead>
         <tbody>
@@ -87,33 +105,39 @@ Pour toute demande spécifique (repas bébé ou enfants < 12 ans, régimes parti
                 <td></td>
                 <td>Demi-pension</td>
                 <td>Pension complète</td>
+                <td>Taxe de séjour **</td>
             </tr>
             <tr>
                 <td>Chambre simple</td>
-                <td class="price">200 €</td>
-                <td class="price">270 €</td>
+                <td class="price">230 €</td>
+                <td class="price">280 €</td>
+                <td class="price">4.38 €</td>
             </tr>
             <tr>
                 <td>Chambre double</td>
-                <td class="price">380 €</td>
-                <td class="price">520 €</td>
-            </tr>
-            <tr>
-                <td>Lit d'appoint (enfant < 12 ans)</td>
-                <td class="price">120 €</td>
-                <td class="price">180 €</td>
+                <td class="price">400 €</td>
+                <td class="price">500 €</td>
+                <td class="price">6.96 €</td>
             </tr>
             <tr>
                 <td>Chambre famille<sup>*</sup></td>
-                <td class="price">730 €</td>
-                <td class="price">990 €</td>
+                <td class="price">780 €</td>
+                <td class="price">1 000 €</td>
+                <td class="price">12.90 €</td>
+            </tr>
+            <tr>
+                <td>Lit d'appoint (enfant < 12 ans)</td>
+                <td class="price">140 €</td>
+                <td class="price">180 €</td>
             </tr>
         </tbody>
     </table>
-    <figcaption><sup>*</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</figcaption>
-</figure>
+   
 
-La taxe de séjour est de 0.60 € / nuit pour une chambre simple, 1.12 € / nuit pour une chambre double et 2.30 € / nuit pour la chambre familiale. Vous trouverez les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
+ **<figcaption><sup>*</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</figcaption>
+</figure>**
+
+** Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public (https://www.service-public.fr/particuliers/vosdroits/F2048).
 
 ## Faire une demande de réservation
 
