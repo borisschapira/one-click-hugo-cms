@@ -9,19 +9,21 @@ permalink: /
 À quelques minutes de Périgueux, l'Oasis vous accueille pour un séjour ressourçant. Laissez-vous séduire par le charme de son parc fleuri et la quiétude de sa Chapelle.\
 Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de culture. Enrichissez-vous des témoignages des Filles de la Charité, de leurs voyages à travers le monde. 
 
-## Auberge
+## Hébergement
 
 Entièrement rénovée en 2015, l'Oasis comprend 28 chambres dont 3 accessibles aux personnes à mobilité réduite, équipées de sanitaires indépendants et d'un accès au Wifi. 
 
 Certaines chambres ont conservé leur mur en pierres et leurs arcades, vestiges de cet établissement ancré dans l'histoire. Vous pourrez également profiter du salon équipé d'une tisanerie et d'une télévision pour des moments de partage et de convivialité. 
-
-Niché entre les deux bras de la Beauronne, découvrez le charme de notre parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. 
 
 ## Restauration
 
 Nos repas sont entièrement confectionnés sur place et privilégient les produits frais et du terroir. Nos cuisinières ont du talent et s'adaptent à vos régimes particuliers. 
 
 Petit-déjeuner, déjeuner, dîner, pique-nique ou collation, organisez votre séjour selon vos envies. 
+
+## Parc
+
+Niché entre les deux bras de la Beauronne, découvrez le charme de notre parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. Profitez-en pour rendre visite à nos "jolies cocottes" !
 
 ## La Chapelle
 
