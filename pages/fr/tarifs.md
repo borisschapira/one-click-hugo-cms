@@ -29,7 +29,7 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         </tr>
         <tr>
         <td>Chambre double</td>
-        <td class="price">38 €</td>
+        <td class="price">35 €</td>
         <td>1.16 €</td>
         </tr>
         <tr>
