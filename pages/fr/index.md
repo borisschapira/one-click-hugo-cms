@@ -11,7 +11,7 @@ Suivez les traces de Saint Vincent de Paul dans ce lieu riche d'histoire et de c
 
 ## Hébergement
 
-Entièrement rénovée en 2015, l'Oasis comprend 28 chambres dont 3 accessibles aux personnes à mobilité réduite, équipées de sanitaires indépendants et d'un accès au Wifi. 
+Entièrement rénovée en 2015, l'Oasis comprend 27 chambres dont 3 accessibles aux personnes à mobilité réduite, équipées de sanitaires indépendants et d'un accès au Wifi. 
 
 {% capture img_alt %}Chambre simple mansardée avec arcade en pierre apparente{% endcapture %}{% capture img_caption %}Chambre simple à l'étage{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/ot-2018-l-oasis-026-jb.jpg" alt=img_alt caption=img_caption %}
 
