@@ -27,7 +27,7 @@ Petit-déjeuner, déjeuner, dîner, pique-nique ou collation, organisez votre s�
 
 ## Parc
 
-{% capture img_alt %}Parc boisé avec banc{% endcapture %}{% capture img_caption %}PArc{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/ot-2018-l-oasis-048-jb.jpg" alt=img_alt caption=img_caption %}
+{% capture img_alt %}Parc boisé avec banc{% endcapture %}{% capture img_caption %}Parc{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/ot-2018-l-oasis-048-jb.jpg" alt=img_alt caption=img_caption %}
 
 Niché entre les deux bras de la Beauronne, découvrez le charme de notre parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. Profitez-en pour rendre visite à nos "jolies cocottes" !
 
