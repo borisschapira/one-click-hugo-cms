@@ -21,7 +21,7 @@ contact:
   address2: 24460 Château-L'Évêque
   phone: "(+33) 05 53 54 30 71"
 baseurl: "/"
-url: https://oasis.maisonstvincent.fr/
+url: https://oasis.maisonstvincent.fr
 permalink: :year/:month/:title/
 locale: fr_FR
 defaults:
@@ -39,7 +39,7 @@ defaults:
 
 # Images RWD
 cloudinary:
-  origin_url: https://oasis.maisonstvincent.fr/
+  origin_url: https://oasis.maisonstvincent.fr
   cloud_name: oasis-st-vincent
   presets:
     default:

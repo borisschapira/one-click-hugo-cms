@@ -6,7 +6,7 @@ gem "jekyll"
 group :jekyll_plugins do
   gem 'jekyll-microtypo'
   gem 'jekyll-cloudinary'
-#  gem 'jekyll-sitemap'
+  gem 'jekyll-sitemap'
 end
 
   
