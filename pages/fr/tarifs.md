@@ -130,6 +130,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
                 <td>Lit d'appoint (enfant < 12 ans)</td>
                 <td class="price">140 €</td>
                 <td class="price">180 €</td>
+                <td class="price"> - </td>
             </tr>
         </tbody>
     </table>
