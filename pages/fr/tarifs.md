@@ -79,7 +79,7 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         <td class="price">8 €</td>
         </tr>
         <tr>
-        <td>Pic-nic</td>
+        <td>Pique-nique</td>
         <td class="price">10 €</td>
         <td class="price">8 €</td>
         </tr>
