@@ -31,7 +31,7 @@ Petit-déjeuner, déjeuner, dîner, pique-nique ou collation, organisez votre s�
 
 Niché entre les deux bras de la Beauronne, découvrez le charme de notre parc fleuri, son sentier de promenade et ses bancs invitant à quelques instants de calme et de méditation. Profitez-en pour rendre visite à nos "jolies cocottes" !
 
-{% capture img_alt %}Poules dans leur petite cabane en bois{% endcapture %}{% capture img_caption %}Les poules de la Maison{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/img_3443[1].jpg" alt=img_alt caption=img_caption %}
+{% capture img_alt %}Poules dans leur petite cabane en bois{% endcapture %}{% capture img_caption %}Les poules de la Maison{% endcapture %}{% include image.html.liquid type="default" path="/images/uploads/cocottes.jpg" alt=img_alt caption=img_caption %}
 
 ## La Chapelle
 
