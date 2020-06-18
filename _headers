@@ -1,3 +1,13 @@
 /*
-  X-Frame-Options: DENY
+  Cache-Control: max-age=7200, private
+  X-Frame-Options: SAMEORIGIN
+  X-Unicorn: "Glitter!"
   X-XSS-Protection: 1; mode=block
+
+/*.css
+  X-Content-Type-Options: nosniff
+  Cache-Control: max-age=31536000, private
+
+/*.js
+  X-Content-Type-Options: nosniff
+  Cache-Control: max-age=31536000, private
