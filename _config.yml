@@ -14,13 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: L'Oasis
+email: oasis@maisonstvincent.fr
 domain: oasis.maisonstvincent.fr
 description: "L'Oasis, séjour ressourçant au cœur d'un parc fleuri."
 contact:
   name: L'Oasis
   address1: 24 rue d'Angoulême
   address2: 24460 Château-L'Évêque
+  postalCode: 24460
+  city: Château-L'Évêque
+  region: Aquitaine
+  country: France
   phone: "(+33) 05 53 54 30 71"
+social:
+  facebook: https://www.facebook.com/Oasis-Maison-Saint-Vincent-101552348278409
+  instagram: https://www.instagram.com/oasismsv/
+  twitter: ~
 baseurl: ""
 url: https://oasis.maisonstvincent.fr
 permalink: :year/:month/:title/

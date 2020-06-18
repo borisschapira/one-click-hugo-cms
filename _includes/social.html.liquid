@@ -2,6 +2,9 @@
 {%- assign pageDescription = page.description | default: site.description -%}
 
 {%- assign pageTitleImg = page.title | append: "%0AL'Oasis" -%}
+{%- capture siteTitleImgUrl -%}
+    https://res.cloudinary.com/oasis-st-vincent/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/w_1200/https://oasis.maisonstvincent.fr/images/uploads/oasis.jpg
+{%- endcapture -%}
 {%- capture pageTitleImgUrl -%}
     https://res.cloudinary.com/oasis-st-vincent/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/w_1200/b_rgb:000000,o_70/w_1000,c_scale,l_text:Great%20Vibes_180_center:{{ pageTitleImg }},x_2,co_black,o_80/w_1000,c_scale,l_text:Great%20Vibes_180_center:{{ pageTitleImg }},y_-2,co_white/https://oasis.maisonstvincent.fr/images/uploads/oasis.jpg
 {%- endcapture -%}
@@ -28,9 +31,54 @@
 <meta
     name="twitter:image"
     content="{{ pageTitleImgUrl }}" />
-{% if site.twitter -%}
+{% if site.social.twitter -%}
 <meta name="twitter:creator" content="{{ site.twitter }}" />
 <meta name="twitter:site" content="{{ site.twitter }}" />
 {%- endif %}
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Hotel",
+  "image": "{{ siteTitleImgUrl }}",
+  "priceRange" : "20€ - 70€",
+  "address": {
+    "@type": "PostalAddress",
+   "streetAddress": "{{ site.contact.address1 }}",
+    "addressLocality": "{{ site.contact.city }}",
+    "addressRegion": "{{ site.contact.region }}",
+    "postalCode": "{{ site.contact.postalCode }}",
+     "addressCountry": "{{ site.contact.country }}"
+  },
+  
+  "description": "{{ site.description }}",
+  "name": "{{ site.title }}",
+  "alternateName": "{{ site.title }} Maison Saint Vincent",
+  "telephone": "{{ site.contact.phone }}",
+  "email": "{{ site.email }}",
+  "url": "{{ site.url }}",
+  "sameAs" : [ 
+      "{{ site.social.facebook }}",
+      "{{ site.social.instagram }}"
+  ]},   
+   "hasMap": "https://goo.gl/maps/DKnR6nvoZuS4sDBZ7"
+ },
+ 
+  "potentialAction":{
+   "@type":"ReserveAction",
+   "target":{
+   "@type":"EntryPoint",
+   "urlTemplate":"https://oasis.maisonstvincent.fr/tarifs","actionPlatform":[
+   "http://schema.org/DesktopWebPlatform",
+   "http://schema.org/IOSPlatform",
+    "http://schema.org/AndroidPlatform"
+]
+},
+   "result":{
+   "@type":"LodgingReservation",
+   "name":"Tarifs et Réservations"
+  }
+ }
+}
+</script>
 
