@@ -5,8 +5,10 @@
 {%- capture siteTitleImgUrl -%}
     https://res.cloudinary.com/oasis-st-vincent/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/w_1200/https://oasis.maisonstvincent.fr/images/uploads/oasis.jpg
 {%- endcapture -%}
+{%- assign pageTitleImgTextLength = page.title | size -%}
+{%- assign pageTitleImgTextSize = 180 | minus: pageTitleImgTextLength -%}
 {%- capture pageTitleImgUrl -%}
-    https://res.cloudinary.com/oasis-st-vincent/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/w_1200/b_rgb:000000,o_70/w_1000,c_scale,l_text:Great%20Vibes_180_center:{{ pageTitleImg }},x_2,co_black,o_80/w_1000,c_scale,l_text:Great%20Vibes_180_center:{{ pageTitleImg }},y_-2,co_white/https://oasis.maisonstvincent.fr/images/uploads/oasis.jpg
+    https://res.cloudinary.com/oasis-st-vincent/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/w_1200/b_rgb:000000,o_70/w_1000,c_fit,l_text:Great%20Vibes_{{ pageTitleImgTextSize }}_center:{{ pageTitleImg }},x_2,co_black,o_80/w_1000,c_fit,l_text:Great%20Vibes_{{ pageTitleImgTextSize }}_center:{{ pageTitleImg }},y_-2,co_white/https://oasis.maisonstvincent.fr/images/uploads/oasis.jpg
 {%- endcapture -%}
 
 <meta 
