@@ -1,8 +1,13 @@
+{% assign googleFontUrl = "https://fonts.googleapis.com/css2?family=Gabriela&family=Great+Vibes&family=Merriweather:wght@400;700&display=swap" %}
 <head>
     <title>{{ page.title }} – {{ site.title }}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Gabriela&family=Great+Vibes&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="{{ googleFontUrl }}" />
+    <link href="{{ googleFontUrl }}" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="{{ googleFontUrl }}" rel="stylesheet" />
+    </noscript>
     <link rel="stylesheet" href="/style/tinytypo.css">
     <link rel="stylesheet" href="/style/style.css">
     <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
@@ -11,4 +16,5 @@
     <link rel="manifest" href="/manifest.json">
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#fff">
+    {% include social.html.liquid %}
 </head>

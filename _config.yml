@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: L'Oasis
-email: your-email@example.com
+domain: oasis.maisonstvincent.fr
+description: "L'Oasis, séjour ressourçant au cœur d'un parc fleuri."
 contact:
   name: L'Oasis
   address1: 24 rue d'Angoulême
   address2: 24460 Château-L'Évêque
   phone: "(+33) 05 53 54 30 71"
-baseurl: "/"
+baseurl: ""
 url: https://oasis.maisonstvincent.fr
 permalink: :year/:month/:title/
 locale: fr_FR
@@ -51,7 +52,7 @@ cloudinary:
       max_width: 1600
       fallback_max_width: 800
       steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
+      sizes: "(min-width: 50rem) 40rem, 90vw"
       attributes:
         class: "p80"
     onethird-right:

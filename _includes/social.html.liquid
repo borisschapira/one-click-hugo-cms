@@ -1,0 +1,36 @@
+{%- assign pageTitle = page.title | append: " - L'Oasis" -%}
+{%- assign pageDescription = page.description | default: site.description -%}
+
+{%- assign pageTitleImg = page.title | append: "%0AL'Oasis" -%}
+{%- capture pageTitleImgUrl -%}
+    https://res.cloudinary.com/oasis-st-vincent/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/w_1200/b_rgb:000000,o_70/w_1000,c_scale,l_text:Great%20Vibes_180_center:{{ pageTitleImg }},x_2,co_black,o_80/w_1000,c_scale,l_text:Great%20Vibes_180_center:{{ pageTitleImg }},y_-2,co_white/https://oasis.maisonstvincent.fr/images/uploads/oasis.jpg
+{%- endcapture -%}
+
+<meta 
+    name="description" 
+    content="{{ pageDescription }}"/>
+<meta property="og:url" content="/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ pageTitle }} />
+<meta
+    property="og:image"
+    content="{{ pageTitleImgUrl }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="article:author" content="{% t L'équipe de L'Oasis %}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:domain" content="{{ site.domain }}" />
+<meta name="twitter:title" content="{{ pageTitle }}" />
+<meta
+    name="twitter:description"
+    content="{{ pageDescription }}" />
+<meta
+    name="twitter:image"
+    content="{{ pageTitleImgUrl }}" />
+{% if site.twitter -%}
+<meta name="twitter:creator" content="{{ site.twitter }}" />
+<meta name="twitter:site" content="{{ site.twitter }}" />
+{%- endif %}
+
+
