@@ -22,6 +22,8 @@ Depuis l'autoroute A89 (Bordeaux - Lyon) sortie 14 ou depuis la nationale N21 (L
 
 {% include google-map.html.liquid %}
 
+{% comment %}
 ## Nous contacter
 
 {% include form-message.html.liquid %}
+{% endcomment %}
