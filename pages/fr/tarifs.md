@@ -7,6 +7,8 @@ permalink: /tarifs
 
 # Tarifs et réservation
 
+**L'établissement n'accepte pas les cartes bleues.**
+
 ## Nuitées
 
 Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 1 chambre familiale (composée de deux chambres doubles, d'une salle d'eau et d'un sanitaire indépendant). Certaines chambres offrent la possibilité d'ajouter un lit d'appoint (enfant&nbsp;<&nbsp;12 ans) ou un lit bébé (lit parapluie disponible gratuitement sur demande lors de la réservation).
